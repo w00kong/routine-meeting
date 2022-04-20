@@ -7,6 +7,7 @@ Please upload your **slides or a introduction** (Chinese or English) of your pre
 |  |Date  | Speaker | Title |
 | --- | --- | --- | --- |
 | 4 | 2022.2.12 |王毓贞  | ThingPot: an interactive Internet-of-Things honeypot |
+| 12 | 2022.3.12 |张士超  | PASan: Detecting Peripheral Access Concurrency Bugs within Bare-Metal Embedded Applications |
 | 13 | 2022.3.19 |王毓贞  | FirmPot: A Framework for Intelligent-Interaction Honeypots Using Firmware of IoT Devices |
 | 1 | 2022.3.26 |葛学帅  | xxx |
 | 2 | 2022.4.9 |张士超  | Cross-Architecture Bug Search in Binary Executables |
