@@ -8,6 +8,7 @@ Please upload your **slides or a introduction** (Chinese or English) of your pre
 | --- | --- | --- | --- |
 | 3 | 2022.2.12 |刘厚志  | IRQDebloat: Reducing Driver Attack Surface in Embedded Devices |
 | 4 | 2022.2.12 |王毓贞  | ThingPot: an interactive Internet-of-Things honeypot |
+| 4 | 2022.3.5 |马梓刚  | Too Good to Be Safe: Tricking Lane Detection in Autonomous Driving with Crafted Perturbations
 | 11 | 2022.3.12 |刘厚志  | μAFL: Non-intrusive Feedback-driven Fuzzing for Microcontroller Firmware |
 | 12 | 2022.3.12 |张士超  | PASan: Detecting Peripheral Access Concurrency Bugs within Bare-Metal Embedded Applications |
 | 13 | 2022.3.19 |王毓贞  | FirmPot: A Framework for Intelligent-Interaction Honeypots Using Firmware of IoT Devices |
