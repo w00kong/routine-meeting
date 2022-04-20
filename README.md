@@ -7,7 +7,7 @@ Please upload your **slides or a introduction** (Chinese or English) of your pre
 |  |Date  | Speaker | Title |
 | --- | --- | --- | --- |
 | 1 | 2022.1.18 |  |  |
-| 2 | 2022.1.18 |  |  |
+| 2 | 2022.1.18 | 廖贤刚 | HALucinator: Firmware Re-hosting Through Abstraction Layer Emulation |
 | 3 | 2022.2.12 |刘厚志  | IRQDebloat: Reducing Driver Attack Surface in Embedded Devices |
 | 4 | 2022.2.12 |王毓贞  | ThingPot: an interactive Internet-of-Things honeypot |
 | 5 | 2022.2.19 |耿洋洋  | PGFUZZ: Policy-Guided Fuzzing for Robotic Vehicles |
