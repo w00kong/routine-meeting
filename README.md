@@ -6,6 +6,8 @@ Please upload your **slides or a introduction** (Chinese or English) of your pre
 **Time**: Saturday 8:00
 |  |Date  | Speaker | Title |
 | --- | --- | --- | --- |
+| 4 | 2022.2.12 |王毓贞  | ThingPot: an interactive Internet-of-Things honeypot |
+| 13 | 2022.3.19 |王毓贞  | FirmPot: A Framework for Intelligent-Interaction Honeypots Using Firmware of IoT Devices |
 | 1 | 2022.3.26 |葛学帅  | xxx |
 | 2 | 2022.4.9 |张士超  | Cross-Architecture Bug Search in Binary Executables |
 | 3 | 2022.4.16 |刘厚志  | Firmware Re-hosting Through Static Binary-level Porting |
