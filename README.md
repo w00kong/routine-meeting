@@ -27,7 +27,7 @@ Please upload your **slides or a introduction** (Chinese or English) of your pre
 | 19 | 2022.4.23 |彭慜威  | FIRMAE Towards Large-Scale Emulation of IoT Firmware for DynamicAnalysis |
 | 20 | 2022.4.23 |高仪  | ICSREF: A Framework for Automated Reverse Engineering of Industrial Control Systems Binaries |
 | 21 | 2022.4.30 |葛学帅  |  |
-| 22 | 2022.5.7 |芦笑瑜  |  |
+| 22 | 2022.5.7 |芦笑瑜  |  |Toward the Analysis of Embedded Firmware through Automated Re-hosting
 | 23 | 2022.5.7 |马梓刚  |  |
 | 24 | 2022.5.14 |张士超  |  |
 | 25 | 2022.5.14 |刘厚志  |  |
