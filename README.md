@@ -33,7 +33,7 @@ Please upload your **slides or a introduction** (Chinese or English) of your pre
 | 25 | 2022.5.14 |刘厚志  | Fuzzware: Using Precise MMIO Modeling for Effective Firmware Fuzzing |
 | 26 | 2022.5.21 |王毓贞  |  |
 | 27 | 2022.5.21 |高仪  |  |
-| 28 | 2022.5.28 |彭慜威  |  |
+| 28 | 2022.5.28 |彭慜威  | Game of Hide-and-Seek: Exposing Hidden Interfaces in Embedded Web Applications of IoT Devices |
 | 29 | 2022.5.28 | 杨亚辉 |  |
 | 30 | 2022.6.4 |芦笑瑜  |  |
 | 31 | 2022.6.11 |马梓刚  |  |
