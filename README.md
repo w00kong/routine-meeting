@@ -29,8 +29,8 @@ Please upload your **slides or a introduction** (Chinese or English) of your pre
 | 21 | 2022.4.30 |葛学帅  |  |
 | 22 | 2022.5.7 |芦笑瑜| Toward the Analysis of Embedded Firmware through Automated Re-hosting |
 | 23 | 2022.5.7 |马梓刚  | BYTEWEIGHT : learning to recognize fuctions in Binary Code |
-| 24 | 2022.5.14 |张士超  |  |
-| 25 | 2022.5.14 |刘厚志<br>张士超| Fuzzware: Using Precise MMIO Modeling for Effective Firmware Fuzzing<br>xxx |
+| 24 | 2022.5.14 |  |  |
+| 25 | 2022.5.14 |刘厚志<br>张士超| Fuzzware: Using Precise MMIO Modeling for Effective Firmware Fuzzing<br>xxx |刘厚志|
 | 26 | 2022.5.21 |王毓贞  |  |
 | 27 | 2022.5.21 |高仪  |  |
 | 28 | 2022.5.28 |彭慜威  | Game of Hide-and-Seek: Exposing Hidden Interfaces in Embedded Web Applications of IoT Devices |
