@@ -13,7 +13,7 @@ Please upload your **slides or a introduction** (Chinese or English) of your pre
 | 5 | 2022.2.19 |耿洋洋  | PGFUZZ: Policy-Guided Fuzzing  for Robotic Vehicles |
 | 6 | 2022.2.19 |李泽村  | An IEC 61850 MMS Traffic Parser for Customizable and Efficient Intrusion |
 | 7 | 2022.2.26 |刘可  | DefRec: Establishing Physical Function Virtualization to Disrupt Reconnaissance of Power Grids‘ Cyber-Physical Infrastructures |
-| 8 | 2022.2.26 |高仪  | ICSFuzz: Manipulating I/Os and Repurposing Binary Code to Enable Instrumented Fuzzing in ICS Control Applications |
+| 8 | 2022.2.26 |高仪 <br>xxx | ICSFuzz: Manipulating I/Os and Repurposing Binary Code to Enable Instrumented Fuzzing in ICS Control Applications <br>xxx|
 | 9 | 2022.3.5 |马梓刚  | Too Good to Be Safe: Tricking Lane Detection in Autonomous Driving with Crafted Perturbations
 | 10 | 2022.3.5 |芦笑瑜  | USBFuzz: A Framework for Fuzzing USB Drivers by Device Emulation |
 | 11 | 2022.3.12 |刘厚志  | μAFL: Non-intrusive Feedback-driven Fuzzing for Microcontroller Firmware |
@@ -27,7 +27,7 @@ Please upload your **slides or a introduction** (Chinese or English) of your pre
 | 19 | 2022.4.23 |彭慜威  | FIRMAE Towards Large-Scale Emulation of IoT Firmware for DynamicAnalysis |
 | 20 | 2022.4.23 |高仪  | ICSREF: A Framework for Automated Reverse Engineering of Industrial Control Systems Binaries |
 | 21 | 2022.4.30 |葛学帅  |  |
-| 22 | 2022.5.7 |芦笑瑜<br>马梓刚  | Toward the Analysis of Embedded Firmware through Automated Re-hosting |
+| 22 | 2022.5.7 |芦笑瑜| Toward the Analysis of Embedded Firmware through Automated Re-hosting |
 | 23 | 2022.5.7 |马梓刚  | BYTEWEIGHT : learning to recognize fuctions in Binary Code |
 | 24 | 2022.5.14 |张士超  |  |
 | 25 | 2022.5.14 |刘厚志  | Fuzzware: Using Precise MMIO Modeling for Effective Firmware Fuzzing |
