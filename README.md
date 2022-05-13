@@ -6,14 +6,10 @@ Please upload your **slides or a introduction** (Chinese or English) of your pre
 **Time**: Saturday 8:00
 |  |Date  | Speaker | Title |Reporter|
 | --- | --- | --- | --- |---|
-| 1 | 2022.1.28 |芦笑瑜  | DICE: Automatic Emulation of DMA Input Channels for Dynamic Firmware Analysis  |
-| 2 | 2022.1.28 |廖贤刚  | HALucinator: Firmware Re-hosting Through Abstraction Layer Emulation|
-| 3 | 2022.2.12 |刘厚志  | IRQDebloat: Reducing Driver Attack Surface in Embedded Devices |
-| 4 | 2022.2.12 |王毓贞  | ThingPot: an interactive Internet-of-Things honeypot |
-| 5 | 2022.2.19 |耿洋洋  | PGFUZZ: Policy-Guided Fuzzing  for Robotic Vehicles |
-| 6 | 2022.2.19 |李泽村  | An IEC 61850 MMS Traffic Parser for Customizable and Efficient Intrusion |
-| 7 | 2022.2.26 |刘可  | DefRec: Establishing Physical Function Virtualization to Disrupt Reconnaissance of Power Grids‘ Cyber-Physical Infrastructures |
-| 8 | 2022.2.26 |高仪 | ICSFuzz: Manipulating I/Os and Repurposing Binary Code to Enable Instrumented Fuzzing in ICS Control Applications |
+| 1 | 2022.1.28 |芦笑瑜<br>廖贤刚  | DICE: Automatic Emulation of DMA Input Channels for Dynamic Firmware Analysis<br>HALucinator: Firmware Re-hosting Through Abstraction Layer Emulation  |
+| 3 | 2022.2.12 |刘厚志<br>王毓贞  | IRQDebloat: Reducing Driver Attack Surface in Embedded Devices<br>ThingPot: an interactive Internet-of-Things honeypot |
+| 5 | 2022.2.19 |耿洋洋<br>李泽村   | PGFUZZ: Policy-Guided Fuzzing  for Robotic Vehicles<br>An IEC 61850 MMS Traffic Parser for Customizable and Efficient Intrusion |
+| 7 | 2022.2.26 |刘可<br>高仪  | DefRec: Establishing Physical Function Virtualization to Disrupt Reconnaissance of Power Grids‘ Cyber-Physical Infrastructures<br>ICSFuzz: Manipulating I/Os and Repurposing Binary Code to Enable Instrumented Fuzzing in ICS Control Applications |
 | 9 | 2022.3.5 |马梓刚  | Too Good to Be Safe: Tricking Lane Detection in Autonomous Driving with Crafted Perturbations
 | 10 | 2022.3.5 |芦笑瑜  | USBFuzz: A Framework for Fuzzing USB Drivers by Device Emulation |
 | 11 | 2022.3.12 |刘厚志  | μAFL: Non-intrusive Feedback-driven Fuzzing for Microcontroller Firmware |
@@ -32,17 +28,12 @@ Please upload your **slides or a introduction** (Chinese or English) of your pre
 | 27 | 2022.5.21 |高仪<br>王毓贞  |  ||
 | 28 | 2022.5.28 |彭慜威<br>杨亚辉  | Game of Hide-and-Seek: Exposing Hidden Interfaces in Embedded Web Applications of IoT Devices<br> |
 | 30 | 2022.6.4 |芦笑瑜  |  |
-| 31 | 2022.6.11 |马梓刚  |  |
-| 32 | 2022.6.11 |张士超  |  |
-| 33 | 2022.6.18 |刘厚志  |  |
-| 34 | 2022.6.18 |王毓贞  |  |
-| 35 | 2022.6.25 |高仪  |  |
-| 36 | 2022.6.25 |彭慜威  |  |
+| 31 | 2022.6.11 |马梓刚<br>张士超  |  |
+| 33 | 2022.6.18 |刘厚志 <br>王毓贞 |  |
+| 35 | 2022.6.25 |高仪<br>彭慜威  |  |
 | 37 | 2022.7.2 | 杨亚辉 |  |
-| 38 | 2022.7.9 |芦笑瑜  |  |
-| 39 | 2022.7.9 |马梓刚  |  |
-| 40 | 2022.7.16 |张士超  |  |
-| 41 | 2022.7.16 |刘厚志  |  |
+| 38 | 2022.7.9 |芦笑瑜<br> 马梓刚 |  |
+| 40 | 2022.7.16 |张士超<br> 刘厚志 |  |
 
 
 
