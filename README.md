@@ -13,7 +13,7 @@ Please upload your **slides or a introduction** (Chinese or English) of your pre
 | 5 | 2022.2.19 |耿洋洋  | PGFUZZ: Policy-Guided Fuzzing  for Robotic Vehicles |
 | 6 | 2022.2.19 |李泽村  | An IEC 61850 MMS Traffic Parser for Customizable and Efficient Intrusion |
 | 7 | 2022.2.26 |刘可  | DefRec: Establishing Physical Function Virtualization to Disrupt Reconnaissance of Power Grids‘ Cyber-Physical Infrastructures |
-| 8 | 2022.2.26 |高仪 <br>xxx | ICSFuzz: Manipulating I/Os and Repurposing Binary Code to Enable Instrumented Fuzzing in ICS Control Applications <br>xxx|
+| 8 | 2022.2.26 |高仪 | ICSFuzz: Manipulating I/Os and Repurposing Binary Code to Enable Instrumented Fuzzing in ICS Control Applications |
 | 9 | 2022.3.5 |马梓刚  | Too Good to Be Safe: Tricking Lane Detection in Autonomous Driving with Crafted Perturbations
 | 10 | 2022.3.5 |芦笑瑜  | USBFuzz: A Framework for Fuzzing USB Drivers by Device Emulation |
 | 11 | 2022.3.12 |刘厚志  | μAFL: Non-intrusive Feedback-driven Fuzzing for Microcontroller Firmware |
