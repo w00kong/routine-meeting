@@ -31,10 +31,8 @@ Please upload your **slides or a introduction** (Chinese or English) of your pre
 | 23 | 2022.5.7 |马梓刚  | BYTEWEIGHT : learning to recognize fuctions in Binary Code |
 | 24 | 2022.5.14 |  |  |
 | 25 | 2022.5.14 |刘厚志<br>张士超| Fuzzware: Using Precise MMIO Modeling for Effective Firmware Fuzzing<br>xxx |刘厚志|
-| 26 | 2022.5.21 |  |  |
 | 27 | 2022.5.21 |高仪<br>王毓贞  |  ||
 | 28 | 2022.5.28 |彭慜威<br>杨亚辉  | Game of Hide-and-Seek: Exposing Hidden Interfaces in Embedded Web Applications of IoT Devices<br> |
-| 29 | 2022.5.28 |  |  |
 | 30 | 2022.6.4 |芦笑瑜  |  |
 | 31 | 2022.6.11 |马梓刚  |  |
 | 32 | 2022.6.11 |张士超  |  |
