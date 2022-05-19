@@ -12,8 +12,7 @@ Please upload your **slides or a introduction** (Chinese or English) of your pre
 | 7 | 2022.2.26 |刘可<br>高仪  | DefRec: Establishing Physical Function Virtualization to Disrupt Reconnaissance of Power Grids‘ Cyber-Physical Infrastructures<br>ICSFuzz: Manipulating I/Os and Repurposing Binary Code to Enable Instrumented Fuzzing in ICS Control Applications |
 | 9 | 2022.3.5 |马梓刚  | Too Good to Be Safe: Tricking Lane Detection in Autonomous Driving with Crafted Perturbations
 | 10 | 2022.3.5 |芦笑瑜  | USBFuzz: A Framework for Fuzzing USB Drivers by Device Emulation |
-| 11 | 2022.3.12 |刘厚志  | μAFL: Non-intrusive Feedback-driven Fuzzing for Microcontroller Firmware |
-| 12 | 2022.3.12 |张士超  | PASan: Detecting Peripheral Access Concurrency Bugs within Bare-Metal Embedded Applications|
+| 11 | 2022.3.12 |刘厚志<br>张士超  | μAFL: Non-intrusive Feedback-driven Fuzzing for Microcontroller Firmware<br>PASan: Detecting Peripheral Access Concurrency Bugs within Bare-Metal Embedded Applications | 刘厚志
 | 13 | 2022.3.19 |王毓贞  | FirmPot: A Framework for Intelligent-Interaction Honeypots Using Firmware of IoT Devices |
 | 14 | 2022.3.26 |葛学帅  | ARCUS: Symbolic Root Cause Analysis of Exploits in Production Systems |
 | 15 | 2022.4.2 |芦笑瑜  | Firm-AFL: High-Throughput Greybox Fuzzing of IoT Firmware via Augmented Process Emulation |
