@@ -25,7 +25,7 @@ Please upload your **slides or a introduction** (Chinese or English) of your pre
 | 22 | 2022.5.7 |芦笑瑜<br>马梓刚| Toward the Analysis of Embedded Firmware through Automated Re-hosting<br>BYTEWEIGHT : learning to recognize fuctions in Binary Code |
 | 25 | 2022.5.14 |刘厚志<br>张士超| Fuzzware: Using Precise MMIO Modeling for Effective Firmware Fuzzing<br>xxx |刘厚志|
 | 27 | 2022.5.21 |高仪<br>王毓贞  | DefRec: Establishing Physical Function Virtualization to Disrupt Reconnaissance of Power Grids’ Cyber-Physical Infrastructures|
-| 28 | 2022.5.28 |彭慜威<br>杨亚辉  | Game of Hide-and-Seek: Exposing Hidden Interfaces in Embedded Web Applications of IoT Devices<br> |芦笑瑜 刘厚志 李泽村 王毓贞<br>张士超 马梓刚 彭慜威 高仪
+| 28 | 2022.5.28 |彭慜威<br>杨亚辉  | Game of Hide-and-Seek: Exposing Hidden Interfaces in Embedded Web Applications of IoT Devices<br> |芦笑瑜 刘厚志 <br>李泽村 王毓贞<br>张士超 马梓刚<br> 彭慜威 高仪
 | 30 | 2022.6.4 |芦笑瑜<br>李泽村  |  |
 | 31 | 2022.6.11 |马梓刚<br>张士超  |  |
 | 33 | 2022.6.18 |刘厚志 <br>王毓贞 |  |
