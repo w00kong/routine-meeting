@@ -1,0 +1,397 @@
+Url:	http://192.168.0.50/apply.cgi
+Payload:	
+response:	Error: SOCKSHTTPConnectionPool(host='192.168.0.50', port=80): Max retries exceeded with url: /apply.cgi (Caused by NewConnectionError('<urllib3.contrib.socks.SOCKSConnection object at 0x7f17b1d92b70>: Failed to establish a new connection: [Errno 111] Connection refused',))
+----------------------------------------------------------------------------------------------------
+Url:	http://192.168.0.50/apply.cgi
+Payload:	{'html_response_page': 'some', 'html_response_message': 'test_rebootneed', 'html_response_return_page': 'some', 'result_timer': '15', 'action': 'tools_admin', 'session_timeout': 'some', 'form1_change_forward': 'true', 'graph_enable': 'some', 'admin_password_tmp': 'some', 'admin_password': 'some', 'admin_password1': 'WDB8WvbXdH', 'graphical_enable_check': 'some'}
+response:			<HTML><HEAD><TITLE>404 Not Found</TITLE></HEAD>
+		<BODY><H2>404 Not Found</H2>
+		The requested server-side-includes filename, /www/some,
+		does not seem to exist.
+		</BODY></HTML>
+
+----------------------------------------------------------------------------------------------------
+Url:	http://192.168.0.50/apply.cgi
+Payload:	
+response:	Error: SOCKSHTTPConnectionPool(host='192.168.0.50', port=80): Max retries exceeded with url: /apply.cgi (Caused by NewConnectionError('<urllib3.contrib.socks.SOCKSConnection object at 0x7f17b1d257b8>: Failed to establish a new connection: [Errno 111] Connection refused',))
+----------------------------------------------------------------------------------------------------
+Url:	http://192.168.0.50/apply.cgi
+Payload:	{'html_response_page': 'some', 'html_response_return_page': 'some', 'html_response_message': 'reboot_go', 'action': 'reboot_needed'}
+response:	null
+----------------------------------------------------------------------------------------------------
+Url:	http://192.168.0.50/update_firmw.cgi
+Payload:	
+response:	Error: SOCKSHTTPConnectionPool(host='192.168.0.50', port=80): Max retries exceeded with url: /update_firmw.cgi (Caused by NewConnectionError('<urllib3.contrib.socks.SOCKSConnection object at 0x7f17b1d25908>: Failed to establish a new connection: [Errno 111] Connection refused',))
+----------------------------------------------------------------------------------------------------
+Url:	http://192.168.0.50/update_firmw.cgi
+Payload:	{'fw_check_type': '0', 'html_response_page': 'some', 'html_response_return_page': 'some', 'result_timer': '60', 'file': 'some', 'html_response_message': 'dl_fw_lp', 'file_link': 'some', 'file_name': 'some', 'update_type': 'some', 'action': 'auto_up_fw', 'update_file_name': 'some'}
+response:	<html>
+<head>
+<title>D-LINK SYSTEMS, INC. | WIRELESS REPEATER  : Maintenance / Firmware</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<script type="text/javascript" src="/js/json2.js"></script>
+<script type="text/javascript" src="/js/jquery-1.8.2.min.js"></script>
+<script type="text/javascript" src="/js/jstorage.js"></script>
+<script type="text/javascript" src="/js/detecting_lang.js"></script>
+<script>
+document.write("<script language=\"Javascript\" src=\"\/js\/lang\/lang_" + fn_get_lang() +".js\"><\/script>");
+</script>
+</head>
+<body>
+<script language="JavaScript">
+function check_fw_up(){
+var res_error_msg="update_fail";
+var action_do="dl_fw_lp";
+var _nv_firmware_upgrading="";
+parent.close_uLightBoxTS();
+if(res_error_msg=="hwid_fail"){
+parent.alert(hwid_fail);
+parent.time_out();
+}
+if((res_error_msg=="hwid_fail_dl")||(res_error_msg=="Update fail.")){
+parent.show_auto_corrupt();
+}
+if(_nv_firmware_upgrading=="1"){
+parent.aniloader_return="some";
+parent.type_aniloader=1/2;
+parent.reboot_bar_fw();
+}
+}
+check_fw_up();
+</script>
+</body>
+</html>
+
+----------------------------------------------------------------------------------------------------
+Url:	http://192.168.0.50/apply.cgi
+Payload:	
+response:	Error: SOCKSHTTPConnectionPool(host='192.168.0.50', port=80): Max retries exceeded with url: /apply.cgi (Caused by NewConnectionError('<urllib3.contrib.socks.SOCKSConnection object at 0x7f17b1d22e48>: Failed to establish a new connection: [Errno 111] Connection refused',))
+----------------------------------------------------------------------------------------------------
+Url:	http://192.168.0.50/apply.cgi
+Payload:	{'fw_check_type': '0', 'html_response_page': 'some', 'html_response_return_page': 'some', 'result_timer': '60', 'file': 'some', 'html_response_message': 'dl_fw_lp', 'file_link': 'some', 'file_name': 'some', 'update_type': 'some', 'action': 'auto_up_fw', 'update_file_name': 'some'}
+response:	<html>
+<head>
+<title>D-LINK SYSTEMS, INC. | WIRELESS REPEATER  : Maintenance / Firmware</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<script type="text/javascript" src="/js/json2.js"></script>
+<script type="text/javascript" src="/js/jquery-1.8.2.min.js"></script>
+<script type="text/javascript" src="/js/jstorage.js"></script>
+<script type="text/javascript" src="/js/detecting_lang.js"></script>
+<script>
+document.write("<script language=\"Javascript\" src=\"\/js\/lang\/lang_" + fn_get_lang() +".js\"><\/script>");
+</script>
+</head>
+<body>
+<script language="JavaScript">
+function check_fw_up(){
+var res_error_msg="update_fail";
+var action_do="dl_fw_lp";
+var _nv_firmware_upgrading="";
+parent.close_uLightBoxTS();
+if(res_error_msg=="hwid_fail"){
+parent.alert(hwid_fail);
+parent.time_out();
+}
+if((res_error_msg=="hwid_fail_dl")||(res_error_msg=="Update fail.")){
+parent.show_auto_corrupt();
+}
+if(_nv_firmware_upgrading=="1"){
+parent.aniloader_return="some";
+parent.type_aniloader=1/2;
+parent.reboot_bar_fw();
+}
+}
+check_fw_up();
+</script>
+</body>
+</html>
+
+----------------------------------------------------------------------------------------------------
+Url:	http://192.168.0.50/apply.cgi
+Payload:	
+response:	Error: SOCKSHTTPConnectionPool(host='192.168.0.50', port=80): Max retries exceeded with url: /apply.cgi (Caused by NewConnectionError('<urllib3.contrib.socks.SOCKSConnection object at 0x7f17b1ca87f0>: Failed to establish a new connection: [Errno 111] Connection refused',))
+----------------------------------------------------------------------------------------------------
+Url:	http://192.168.0.50/apply.cgi
+Payload:	{'fw_check_type': '0', 'html_response_page': 'some', 'html_response_return_page': 'some', 'result_timer': '60', 'file': 'some', 'html_response_message': 'dl_fw_lp', 'file_link': 'some', 'file_name': 'some', 'update_type': 'some', 'action': 'auto_up_fw', 'update_file_name': 'some'}
+response:	<html>
+<head>
+<title>D-LINK SYSTEMS, INC. | WIRELESS REPEATER  : Maintenance / Firmware</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<script type="text/javascript" src="/js/json2.js"></script>
+<script type="text/javascript" src="/js/jquery-1.8.2.min.js"></script>
+<script type="text/javascript" src="/js/jstorage.js"></script>
+<script type="text/javascript" src="/js/detecting_lang.js"></script>
+<script>
+document.write("<script language=\"Javascript\" src=\"\/js\/lang\/lang_" + fn_get_lang() +".js\"><\/script>");
+</script>
+</head>
+<body>
+<script language="JavaScript">
+function check_fw_up(){
+var res_error_msg="update_fail";
+var action_do="dl_fw_lp";
+var _nv_firmware_upgrading="";
+parent.close_uLightBoxTS();
+if(res_error_msg=="hwid_fail"){
+parent.alert(hwid_fail);
+parent.time_out();
+}
+if((res_error_msg=="hwid_fail_dl")||(res_error_msg=="Update fail.")){
+parent.show_auto_corrupt();
+}
+if(_nv_firmware_upgrading=="1"){
+parent.aniloader_return="some";
+parent.type_aniloader=1/2;
+parent.reboot_bar_fw();
+}
+}
+check_fw_up();
+</script>
+</body>
+</html>
+
+----------------------------------------------------------------------------------------------------
+Url:	http://192.168.0.50/online_firmware_check.cgi
+Payload:	
+response:	Error: SOCKSHTTPConnectionPool(host='192.168.0.50', port=80): Max retries exceeded with url: /online_firmware_check.cgi (Caused by NewConnectionError('<urllib3.contrib.socks.SOCKSConnection object at 0x7f17b1ca8e80>: Failed to establish a new connection: [Errno 111] Connection refused',))
+----------------------------------------------------------------------------------------------------
+Url:	http://192.168.0.50/online_firmware_check.cgi
+Payload:	{'html_response_page': 'some', 'html_response_return_page': 'some'}
+response:			<HTML><HEAD><TITLE>404 Not Found</TITLE></HEAD>
+		<BODY><H2>404 Not Found</H2>
+		The requested server-side-includes filename, /www/back.htm,
+		does not seem to exist.
+		</BODY></HTML>
+
+----------------------------------------------------------------------------------------------------
+Url:	http://192.168.0.50/apply.cgi
+Payload:	
+response:	Error: SOCKSHTTPConnectionPool(host='192.168.0.50', port=80): Max retries exceeded with url: /apply.cgi (Caused by NewConnectionError('<urllib3.contrib.socks.SOCKSConnection object at 0x7f17b1d25cc0>: Failed to establish a new connection: [Errno 111] Connection refused',))
+----------------------------------------------------------------------------------------------------
+Url:	http://192.168.0.50/apply.cgi
+Payload:	{'action': 'wlan0', 'html_response_page': 'some', 'html_response_message': 'test_rebootneed', 'html_response_return_page': 'some', 'result_timer': '1', 'form1_change_forward': 'true', 'wlan_repeater_mode': 'some', 'wlan0_disable_wps_pin': 'some', 'session_timeout': 'some', 'wlan0_11n_protection': 'some', 'wlan0_enable': 'some', 'wlan0_auto_channel_enable': 'some', 'wlan0_psk_pass_phrase': 'some', 'wlan0_security': 'some', 'wlan0_ssid': 'some', 'wlan0_wep_display': 'some', 'wlan0_wps_configured_mode': 'some', 'wlan0_wps_enable': 'some', 'wlan0_wep64_key': 'some', 'wlan0_wep128_key': 'some', 'wlan0_wep64_key_con': 'some', 'wlan0_wep128_key_con': 'some', 'wlan1_11n_protection': 'some', 'wlan1_psk_pass_phrase': 'some', 'wlan1_security': 'some', 'wlan1_ssid': 'some', 'wlan1_wep_display': 'some', 'wlan1_wep64_key': 'some', 'wlan1_wep128_key': 'some', 'ap_ipaddr': 'some', 'ap_netmask': 'some', 'ap_gateway': 'some', 'ap_primary_dns': 'some', 'ap_secondary_dns': 'some', 'ap_device_name': 'some', 'dhcpc_enable': 'some', 'ap_ipv6_wan_proto': 'some', 'ap_ipv6_autoconfig_dns_enable': 'some', 'ap_ipv6_autoconfig_primary_dns': 'some', 'ap_ipv6_autoconfig_secondary_dns': 'some', 'ap_ipv6_wan_specify_dns': 'some', 'link_local_ip_l': 'some', 'wlan0_disablecoext': 'some', 'wlan0_ext_ssid': 'some', 'wep_key1': 'some', 'pre_shared_key': 'some'}
+response:			<HTML><HEAD><TITLE>404 Not Found</TITLE></HEAD>
+		<BODY><H2>404 Not Found</H2>
+		The requested server-side-includes filename, /www/some,
+		does not seem to exist.
+		</BODY></HTML>
+
+----------------------------------------------------------------------------------------------------
+Url:	http://192.168.0.50/apply.cgi
+Payload:	
+response:	Error: SOCKSHTTPConnectionPool(host='192.168.0.50', port=80): Max retries exceeded with url: /apply.cgi (Caused by NewConnectionError('<urllib3.contrib.socks.SOCKSConnection object at 0x7f17b1caeb70>: Failed to establish a new connection: [Errno 111] Connection refused',))
+----------------------------------------------------------------------------------------------------
+Url:	http://192.168.0.50/apply.cgi
+Payload:	{'action': 'wlan0', 'html_response_page': 'some', 'html_response_message': 'test_rebootneed', 'html_response_return_page': 'some', 'result_timer': '15', 'form1_change_forward': 'true', 'wlan_repeater_mode': 'some', 'wlan0_disable_wps_pin': 'some', 'session_timeout': 'some', 'wlan0_11n_protection': 'some', 'wlan0_enable': 'some', 'wlan0_auto_channel_enable': 'some', 'wlan0_psk_pass_phrase': 'some', 'wlan0_security': 'some', 'wlan0_ssid': 'some', 'wlan0_wep_display': 'some', 'wlan0_wps_configured_mode': 'some', 'wlan0_wps_enable': 'some', 'wlan0_wep64_key': 'some', 'wlan0_wep128_key': 'some', 'wlan1_11n_protection': 'some', 'wlan1_psk_pass_phrase': 'some', 'wlan1_security': 'some', 'wlan1_ssid': 'some', 'wlan1_wep_display': 'some', 'wlan1_wep64_key': 'some', 'wlan1_wep128_key': 'some', 'ap_ipaddr': 'some', 'ap_netmask': 'some', 'ap_gateway': 'some', 'ap_primary_dns': 'some', 'ap_secondary_dns': 'some', 'ap_device_name': 'some', 'dhcpc_enable': 'some', 'ap_ipv6_wan_proto': 'some', 'ap_ipv6_autoconfig_dns_enable': 'some', 'ap_ipv6_autoconfig_primary_dns': 'some', 'ap_ipv6_autoconfig_secondary_dns': 'some', 'ap_ipv6_wan_specify_dns': 'some', 'link_local_ip_l': 'some', 'wlan0_disablecoext': 'some', 'device_name': 'some', 'lan_ip': 'some', 'subnet_mask': 'some', 'gateway': '192.168.0.1', 'primary_dns': 'some', 'secondary_dns': 'some', 'ipv6_dns_autoconfig_enable': '1', 'ap_ipv6_autoconfig_primary_dns_ui': 'some', 'ap_ipv6_autoconfig_secondary_dns_ui': 'some', 'ap_ipv6_static_lan_ip': 'some', 'ap_ipv6_static_prefix_length': 'some', 'ap_ipv6_static_default_gw': 'some', 'ap_ipv6_static_primary_dns': 'some', 'ap_ipv6_static_secondary_dns': 'some'}
+response:			<HTML><HEAD><TITLE>404 Not Found</TITLE></HEAD>
+		<BODY><H2>404 Not Found</H2>
+		The requested server-side-includes filename, /www/some,
+		does not seem to exist.
+		</BODY></HTML>
+
+----------------------------------------------------------------------------------------------------
+Url:	http://192.168.0.50/apply.cgi
+Payload:	
+response:	Error: SOCKSHTTPConnectionPool(host='192.168.0.50', port=80): Max retries exceeded with url: /apply.cgi (Caused by NewConnectionError('<urllib3.contrib.socks.SOCKSConnection object at 0x7f17b1cae198>: Failed to establish a new connection: [Errno 111] Connection refused',))
+----------------------------------------------------------------------------------------------------
+Url:	http://192.168.0.50/apply.cgi
+Payload:	{'html_response_page': 'some', 'html_response_return_page': 'some', 'action': 'reset_ifconfig_packet_counter'}
+response:			<HTML><HEAD><TITLE>404 Not Found</TITLE></HEAD>
+		<BODY><H2>404 Not Found</H2>
+		The requested server-side-includes filename, /www/some,
+		does not seem to exist.
+		</BODY></HTML>
+
+----------------------------------------------------------------------------------------------------
+Url:	http://192.168.0.50/submit_wifi.php
+Payload:	
+response:	Error: SOCKSHTTPConnectionPool(host='192.168.0.50', port=80): Max retries exceeded with url: /submit_wifi.php (Caused by NewConnectionError('<urllib3.contrib.socks.SOCKSConnection object at 0x7f17b1d25710>: Failed to establish a new connection: [Errno 111] Connection refused',))
+----------------------------------------------------------------------------------------------------
+Url:	http://192.168.0.50/submit_wifi.php
+Payload:	{}
+response:	<?xml version="1.0" encoding="iso-8859-1"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+         "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>404 - Not Found</title>
+ </head>
+ <body>
+  <h1>404 - Not Found</h1>
+ </body>
+</html>
+
+----------------------------------------------------------------------------------------------------
+Url:	http://192.168.0.50/apply.cgi
+Payload:	
+response:	Error: SOCKSHTTPConnectionPool(host='192.168.0.50', port=80): Max retries exceeded with url: /apply.cgi (Caused by NewConnectionError('<urllib3.contrib.socks.SOCKSConnection object at 0x7f17b1d222b0>: Failed to establish a new connection: [Errno 111] Connection refused',))
+----------------------------------------------------------------------------------------------------
+Url:	http://192.168.0.50/apply.cgi
+Payload:	{'html_response_return_page': 'some', 'html_response_page': 'some', 'html_response_message': 'reboot_go', 'result_timer': '60', 'action': 'wizard', 'form1_wizard_msg': 'true', 'form1_change_forward': 'true', 'wlan0_ssid': 'some', 'wlan0_security': 'some', 'wlan0_enable': '1', 'wlan0_wps_enable': '1', 'wlan0_disable_wps_pin': '1', 'wlan0_11n_protection': 'some', 'wlan0_wps_configured_mode': 'some', 'wlan0_psk_cipher_type': 'some', 'wlan0_psk_pass_phrase': 'some', 'wlan0_wep_display': 'some', 'wlan0_wep64_key': 'some', 'wlan0_wep128_key': 'some', 'wlan_repeater_mode': 'some', 'ap_ipaddr': 'some', 'ap_netmask': 'some', 'ap_gateway': 'some', 'ap_primary_dns': 'some', 'ap_secondary_dns': 'some', 'ap_device_name': 'some', 'dhcpc_enable': 'some', 'wlan1_ssid': 'some', 'wlan1_security': 'some', 'wlan1_enable': '1', 'wlan1_wps_enable': '1', 'wlan1_11n_protection': 'some', 'wlan1_psk_cipher_type': 'some', 'wlan1_psk_pass_phrase': 'some', 'wlan1_wep_display': 'some', 'wlan1_wep64_key': 'some', 'wlan1_wep128_key': 'some'}
+response:	null
+----------------------------------------------------------------------------------------------------
+Url:	http://192.168.0.50/apply.cgi
+Payload:	
+response:	Error: SOCKSHTTPConnectionPool(host='192.168.0.50', port=80): Max retries exceeded with url: /apply.cgi (Caused by NewConnectionError('<urllib3.contrib.socks.SOCKSConnection object at 0x7f17b1ca8cc0>: Failed to establish a new connection: [Errno 111] Connection refused',))
+----------------------------------------------------------------------------------------------------
+Url:	http://192.168.0.50/apply.cgi
+Payload:	{'html_response_page': 'some', 'login_name': 'some', 'html_response_message': 'just_login', 'log_pass': 'some', 'login_n': 'admin', 'action': 'do_graph_auth', 'session_id': 'some', 'graph_code': 'some', 'gcode_base64': 'some'}
+response:			<HTML><HEAD><TITLE>404 Not Found</TITLE></HEAD>
+		<BODY><H2>404 Not Found</H2>
+		The requested server-side-includes filename, /www/some,
+		does not seem to exist.
+		</BODY></HTML>
+
+----------------------------------------------------------------------------------------------------
+Url:	http://192.168.0.50/apply.cgi
+Payload:	
+response:	Error: SOCKSHTTPConnectionPool(host='192.168.0.50', port=80): Max retries exceeded with url: /apply.cgi (Caused by NewConnectionError('<urllib3.contrib.socks.SOCKSConnection object at 0x7f17b1d92b00>: Failed to establish a new connection: [Errno 111] Connection refused',))
+----------------------------------------------------------------------------------------------------
+Url:	http://192.168.0.50/apply.cgi
+Payload:	{'html_response_page': 'some', 'login_name': 'some', 'html_response_message': 'just_login', 'log_pass': 'some', 'login_n': 'admin', 'action': 'do_graph_auth', 'tmp_log_pass': 'some', 'tmp_log_pass_auth': 'some', 'graph_code': 'some'}
+response:	
+----------------------------------------------------------------------------------------------------
+Url:	http://192.168.0.50/upload_configure.cgi
+Payload:	
+response:	Error: SOCKSHTTPConnectionPool(host='192.168.0.50', port=80): Max retries exceeded with url: /upload_configure.cgi (Caused by NewConnectionError('<urllib3.contrib.socks.SOCKSConnection object at 0x7f17cac6bf28>: Failed to establish a new connection: [Errno 111] Connection refused',))
+----------------------------------------------------------------------------------------------------
+Url:	http://192.168.0.50/upload_configure.cgi
+Payload:	{'html_response_page': 'some', 'html_response_return_page': 'some', 'result_timer': '60', 'file': 'some', 'html_response_message': 'go_default', 'action': 'restore_defaults'}
+response:	null
+----------------------------------------------------------------------------------------------------
+Url:	http://192.168.0.50/reboot.cgi
+Payload:	
+response:	Error: SOCKSHTTPConnectionPool(host='192.168.0.50', port=80): Max retries exceeded with url: /reboot.cgi (Caused by NewConnectionError('<urllib3.contrib.socks.SOCKSConnection object at 0x7f17b1caecf8>: Failed to establish a new connection: [Errno 111] Connection refused',))
+----------------------------------------------------------------------------------------------------
+Url:	http://192.168.0.50/reboot.cgi
+Payload:	{'html_response_page': 'some', 'html_response_return_page': 'some', 'result_timer': '60', 'file': 'some', 'html_response_message': 'go_default', 'action': 'restore_defaults'}
+response:	null
+----------------------------------------------------------------------------------------------------
+Url:	http://192.168.0.50/apply.cgi
+Payload:	
+response:	Error: SOCKSHTTPConnectionPool(host='192.168.0.50', port=80): Max retries exceeded with url: /apply.cgi (Caused by NewConnectionError('<urllib3.contrib.socks.SOCKSConnection object at 0x7f17b1ca8400>: Failed to establish a new connection: [Errno 111] Connection refused',))
+----------------------------------------------------------------------------------------------------
+Url:	http://192.168.0.50/apply.cgi
+Payload:	{'html_response_page': 'some', 'html_response_return_page': 'some', 'result_timer': '60', 'file': 'some', 'html_response_message': 'go_default', 'action': 'restore_defaults'}
+response:	null
+----------------------------------------------------------------------------------------------------
+Url:	http://192.168.0.50/save_configure.cgi
+Payload:	
+response:	Error: SOCKSHTTPConnectionPool(host='192.168.0.50', port=80): Max retries exceeded with url: /save_configure.cgi (Caused by NewConnectionError('<urllib3.contrib.socks.SOCKSConnection object at 0x7f17b1cae7b8>: Failed to establish a new connection: [Errno 111] Connection refused',))
+----------------------------------------------------------------------------------------------------
+Url:	http://192.168.0.50/save_configure.cgi
+Payload:	{'html_response_page': 'some', 'html_response_return_page': 'some', 'result_timer': '60', 'file': 'some', 'html_response_message': 'go_default', 'action': 'restore_defaults'}
+response:	null
+----------------------------------------------------------------------------------------------------
+Url:	http://192.168.0.50/apply.cgi
+Payload:	
+response:	Error: SOCKSHTTPConnectionPool(host='192.168.0.50', port=80): Max retries exceeded with url: /apply.cgi (Caused by NewConnectionError('<urllib3.contrib.socks.SOCKSConnection object at 0x7f17b1d9bf98>: Failed to establish a new connection: [Errno 111] Connection refused',))
+----------------------------------------------------------------------------------------------------
+Url:	http://192.168.0.50/apply.cgi
+Payload:	{'html_response_return_page': 'some', 'html_response_page': 'some', 'html_response_message': 'do_disconnect', 'result_timer': '60', 'action': 'UL_disconnect', 'form1_wizard_msg': 'true', 'form1_change_forward': 'true', 'wlan0_ssid': 'some', 'wlan0_security': 'some', 'wlan0_enable': '1', 'wlan0_wps_enable': '1', 'wlan0_disable_wps_pin': '1', 'wlan0_11n_protection': 'some', 'wlan0_wps_configured_mode': 'some', 'wlan0_psk_cipher_type': 'some', 'wlan0_psk_pass_phrase': 'some', 'wlan0_wep_display': 'some', 'wlan0_wep64_key': 'some', 'wlan0_wep128_key': 'some', 'wlan_repeater_mode': 'some', 'ap_ipaddr': 'some', 'ap_netmask': 'some', 'ap_gateway': 'some', 'ap_primary_dns': 'some', 'ap_secondary_dns': 'some', 'ap_device_name': 'some', 'dhcpc_enable': 'some', 'wlan1_ssid': 'some', 'wlan1_security': 'some', 'wlan1_enable': '1', 'wlan1_wps_enable': '1', 'wlan1_11n_protection': 'some', 'wlan1_psk_cipher_type': 'some', 'wlan1_psk_pass_phrase': 'some', 'wlan1_wep_display': 'some', 'wlan1_wep64_key': 'some', 'wlan1_wep128_key': 'some', 'login_name': 'some', 'log_pass': 'some', 'login_n': 'admin', 'tmp_log_pass': 'some'}
+response:			<HTML><HEAD><TITLE>404 Not Found</TITLE></HEAD>
+		<BODY><H2>404 Not Found</H2>
+		The requested server-side-includes filename, /www/some,
+		does not seem to exist.
+		</BODY></HTML>
+
+----------------------------------------------------------------------------------------------------
+Url:	http://192.168.0.50/apply.cgi
+Payload:	
+response:	Error: SOCKSHTTPConnectionPool(host='192.168.0.50', port=80): Max retries exceeded with url: /apply.cgi (Caused by NewConnectionError('<urllib3.contrib.socks.SOCKSConnection object at 0x7f17b1ca4cf8>: Failed to establish a new connection: [Errno 111] Connection refused',))
+----------------------------------------------------------------------------------------------------
+Url:	http://192.168.0.50/apply.cgi
+Payload:	{'html_response_return_page': 'some', 'html_response_page': 'some', 'html_response_message': 'do_disconnect', 'result_timer': '60', 'action': 'UL_disconnect', 'form1_wizard_msg': 'true', 'form1_change_forward': 'true', 'wlan0_ssid': 'some', 'wlan0_security': 'some', 'wlan0_enable': '1', 'wlan0_wps_enable': '1', 'wlan0_disable_wps_pin': '1', 'wlan0_11n_protection': 'some', 'wlan0_wps_configured_mode': 'some', 'wlan0_psk_cipher_type': 'some', 'wlan0_psk_pass_phrase': 'some', 'wlan0_wep_display': 'some', 'wlan0_wep64_key': 'some', 'wlan0_wep128_key': 'some', 'wlan_repeater_mode': 'some', 'ap_ipaddr': 'some', 'ap_netmask': 'some', 'ap_gateway': 'some', 'ap_primary_dns': 'some', 'ap_secondary_dns': 'some', 'ap_device_name': 'some', 'dhcpc_enable': 'some', 'wlan1_ssid': 'some', 'wlan1_security': 'some', 'wlan1_enable': '1', 'wlan1_wps_enable': '1', 'wlan1_11n_protection': 'some', 'wlan1_psk_cipher_type': 'some', 'wlan1_psk_pass_phrase': 'some', 'wlan1_wep_display': 'some', 'wlan1_wep64_key': 'some', 'wlan1_wep128_key': 'some', 'login_name': 'some', 'log_pass': 'some', 'login_n': 'admin', 'tmp_log_pass': 'some'}
+response:			<HTML><HEAD><TITLE>404 Not Found</TITLE></HEAD>
+		<BODY><H2>404 Not Found</H2>
+		The requested server-side-includes filename, /www/some,
+		does not seem to exist.
+		</BODY></HTML>
+
+----------------------------------------------------------------------------------------------------
+Url:	http://192.168.0.50/apply.cgi
+Payload:	
+response:	Error: SOCKSHTTPConnectionPool(host='192.168.0.50', port=80): Max retries exceeded with url: /apply.cgi (Caused by NewConnectionError('<urllib3.contrib.socks.SOCKSConnection object at 0x7f17b1ca17f0>: Failed to establish a new connection: [Errno 111] Connection refused',))
+----------------------------------------------------------------------------------------------------
+Url:	http://192.168.0.50/apply.cgi
+Payload:	{'html_response_return_page': 'some', 'html_response_page': 'some', 'html_response_message': 'do_disconnect', 'result_timer': '60', 'action': 'UL_disconnect', 'form1_wizard_msg': 'true', 'form1_change_forward': 'true', 'wlan0_ssid': 'some', 'wlan0_security': 'some', 'wlan0_enable': '1', 'wlan0_wps_enable': '1', 'wlan0_disable_wps_pin': '1', 'wlan0_11n_protection': 'some', 'wlan0_wps_configured_mode': 'some', 'wlan0_psk_cipher_type': 'some', 'wlan0_psk_pass_phrase': 'some', 'wlan0_wep_display': 'some', 'wlan0_wep64_key': 'some', 'wlan0_wep128_key': 'some', 'wlan_repeater_mode': 'some', 'ap_ipaddr': 'some', 'ap_netmask': 'some', 'ap_gateway': 'some', 'ap_primary_dns': 'some', 'ap_secondary_dns': 'some', 'ap_device_name': 'some', 'dhcpc_enable': 'some', 'wlan1_ssid': 'some', 'wlan1_security': 'some', 'wlan1_enable': '1', 'wlan1_wps_enable': '1', 'wlan1_11n_protection': 'some', 'wlan1_psk_cipher_type': 'some', 'wlan1_psk_pass_phrase': 'some', 'wlan1_wep_display': 'some', 'wlan1_wep64_key': 'some', 'wlan1_wep128_key': 'some', 'login_name': 'some', 'log_pass': 'some', 'login_n': 'admin', 'tmp_log_pass': 'some'}
+response:			<HTML><HEAD><TITLE>404 Not Found</TITLE></HEAD>
+		<BODY><H2>404 Not Found</H2>
+		The requested server-side-includes filename, /www/some,
+		does not seem to exist.
+		</BODY></HTML>
+
+----------------------------------------------------------------------------------------------------
+Url:	http://192.168.0.50/reboot.cgi
+Payload:	
+response:	Error: SOCKSHTTPConnectionPool(host='192.168.0.50', port=80): Max retries exceeded with url: /reboot.cgi (Caused by NewConnectionError('<urllib3.contrib.socks.SOCKSConnection object at 0x7f17b1d9be48>: Failed to establish a new connection: [Errno 111] Connection refused',))
+----------------------------------------------------------------------------------------------------
+Url:	http://192.168.0.50/reboot.cgi
+Payload:	{'html_response_page': 'some', 'html_response_return_page': 'some', 'html_response_message': 'go_default', 'result_timer': '60', 'action': 'restore_defaults'}
+response:	null
+----------------------------------------------------------------------------------------------------
+Url:	http://192.168.0.50/apply.cgi
+Payload:	
+response:	Error: SOCKSHTTPConnectionPool(host='192.168.0.50', port=80): Max retries exceeded with url: /apply.cgi (Caused by NewConnectionError('<urllib3.contrib.socks.SOCKSConnection object at 0x7f17b1d22908>: Failed to establish a new connection: [Errno 111] Connection refused',))
+----------------------------------------------------------------------------------------------------
+Url:	http://192.168.0.50/apply.cgi
+Payload:	{'html_response_page': 'some', 'html_response_return_page': 'some', 'html_response_message': 'go_default', 'result_timer': '60', 'action': 'restore_defaults'}
+response:	null
+----------------------------------------------------------------------------------------------------
+Url:	http://192.168.0.50/apply.cgi
+Payload:	
+response:	Error: SOCKSHTTPConnectionPool(host='192.168.0.50', port=80): Max retries exceeded with url: /apply.cgi (Caused by NewConnectionError('<urllib3.contrib.socks.SOCKSConnection object at 0x7f17b1d9e438>: Failed to establish a new connection: [Errno 111] Connection refused',))
+----------------------------------------------------------------------------------------------------
+Url:	http://192.168.0.50/apply.cgi
+Payload:	{'html_response_page': 'some', 'html_response_return_page': 'some', 'update_file_name': 'some', 'action': 'auto_up_fw'}
+response:	<html>
+<head>
+<title>D-LINK SYSTEMS, INC. | WIRELESS REPEATER  : Maintenance / Firmware</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<script type="text/javascript" src="/js/json2.js"></script>
+<script type="text/javascript" src="/js/jquery-1.8.2.min.js"></script>
+<script type="text/javascript" src="/js/jstorage.js"></script>
+<script type="text/javascript" src="/js/detecting_lang.js"></script>
+<script>
+document.write("<script language=\"Javascript\" src=\"\/js\/lang\/lang_" + fn_get_lang() +".js\"><\/script>");
+</script>
+</head>
+<body>
+<script language="JavaScript">
+function check_fw_up(){
+var res_error_msg="update_fail";
+var action_do="";
+var _nv_firmware_upgrading="";
+parent.close_uLightBoxTS();
+if(res_error_msg=="hwid_fail"){
+parent.alert(hwid_fail);
+parent.time_out();
+}
+if((res_error_msg=="hwid_fail_dl")||(res_error_msg=="Update fail.")){
+parent.show_auto_corrupt();
+}
+if(_nv_firmware_upgrading=="1"){
+parent.aniloader_return="some";
+parent.type_aniloader=1/2;
+parent.reboot_bar_fw();
+}
+}
+check_fw_up();
+</script>
+</body>
+</html>
+
+----------------------------------------------------------------------------------------------------
+Url:	http://192.168.0.50/apply.cgi
+Payload:	
+response:	Error: SOCKSHTTPConnectionPool(host='192.168.0.50', port=80): Max retries exceeded with url: /apply.cgi (Caused by NewConnectionError('<urllib3.contrib.socks.SOCKSConnection object at 0x7f17b1ca84a8>: Failed to establish a new connection: [Errno 111] Connection refused',))
+----------------------------------------------------------------------------------------------------
+Url:	http://192.168.0.50/apply.cgi
+Payload:	{'action': 'wlan1', 'html_response_page': 'some', 'html_response_message': 'test_rebootneed', 'html_response_return_page': 'some', 'result_timer': '15', 'session_timeout': 'some', 'form1_change_forward': 'true', 'wlan1_11n_protection': 'some', 'wlan1_psk_pass_phrase': 'some', 'wlan1_psk_cipher_type': 'some', 'wlan1_security': 'some', 'wlan1_ssid': 'some', 'wlan1_wep_display': 'some', 'wlan1_wps_enable': 'some', 'wlan1_wep64_key': 'some', 'wlan1_wep128_key': 'some', 'wlan0_disablecoext': 'some', 'wlan0_11n_protection': 'some', 'ssid': 'some', 'wep_key1': 'some', 'pre_shared_key': 'some'}
+response:			<HTML><HEAD><TITLE>404 Not Found</TITLE></HEAD>
+		<BODY><H2>404 Not Found</H2>
+		The requested server-side-includes filename, /www/some,
+		does not seem to exist.
+		</BODY></HTML>
+
+----------------------------------------------------------------------------------------------------

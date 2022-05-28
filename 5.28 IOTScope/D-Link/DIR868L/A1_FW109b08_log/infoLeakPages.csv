@@ -1,0 +1,25 @@
+D-Link,DIR868L
+rank,url,keys
+3,http://192.168.0.1/tools_admin.php,['webaccess', 'WAN', 'mode']
+3,http://192.168.0.1/tools_sch.php,['WAN', 'rid', 'mode']
+3,http://192.168.0.1/tools.php,['webaccess', 'WAN', 'mode']
+3,http://192.168.0.1/tools_firmware.php,['WAN', 'fw_ver', 'mode']
+3,http://192.168.0.1/adv_inb_filter.php,['WAN', 'mode', 'controlling']
+3,http://192.168.0.1/spt_tools.php,['WAN', 'author', 'mode']
+3,http://192.168.0.1/spt_adv.php,['WAN', 'mode', 'functions']
+4,http://192.168.0.1/spt_setup.php,['WAN', 'rid', 'mode', 'functions']
+4,http://192.168.0.1/wiz_wan.php,['WAN', 'rid', 'mode', 'macaddr']
+4,http://192.168.0.1/wiz_wan_freset.php,['WAN', 'rid', 'mode', 'macaddr']
+4,http://192.168.0.1/bsc_easysetup.php,['WAN', 'author', 'mode', 'macaddr']
+4,http://192.168.0.1/wiz_wan_fresetv6.php,['WAN', 'rid', 'mode', 'macaddr']
+4,http://192.168.0.1/bsc_web_access.php,['webaccess', 'WAN', 'rid', 'mode']
+4,http://192.168.0.1/bsc_lan.php,['WAN', 'rid', 'mode', 'macaddr']
+4,http://192.168.0.1/st_ipv6.php,['WAN', 'rid', 'mode', 'macaddr']
+4,http://192.168.0.1/webaccess/index.php,['webaccess', 'fw_ver', 'mode', 'webfile_images']
+3,http://192.168.0.1/adv_qos.php,['WAN', 'rid', 'mode']
+4,http://192.168.0.1/bsc_wan.php,['WAN', 'rid', 'mode', 'macaddr']
+5,http://192.168.0.1/wiz_freset.php,['WAN', 'rid', 'author', 'mode', 'macaddr']
+4,http://192.168.0.1/st_device.php,['WAN', 'rid', 'mode', 'macaddr']
+4,http://192.168.0.1/status.php,['WAN', 'rid', 'mode', 'macaddr']
+Filtered Number: 21
+------------------------------------------------------------------------------------------------------------------------------------------------------

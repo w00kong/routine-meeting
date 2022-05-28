@@ -1,0 +1,34 @@
+"getcfg.php", payload
+"hedwig.cgi", xml.XDoc
+"pigwidgeon.cgi", payload
+"check_stats.php", {'CHECK_NODE': ''}
+"session_act.php", {}
+"register_send.php", {'act': 'signup', 'lang': 'OBJ(lang).value', 'outemail': 'OBJ(email).value', 'passwd': 'OBJ(register_pwd).value', 'firstname': 'OBJ(register_firstname).value', 'lastname': 'OBJ(register_lastname).value'}
+"register_send.php", {'act': 'signin', 'lang': 'OBJ(lang).value', 'outemail': 'email', 'passwd': 'passwd', 'mydlink_cookie': ''}
+"service.cgi", {'EVENT': 'EventName'}
+"wandetect.php", {'action': 'action'}
+"routing_stat.php", {'version': 'version'}
+"service.cgi", {'EVENT': 'svc'}
+"service.cgi", {'EVENT': 'CHECKFW'}
+"firmversion.php", {'act': 'checkreport'}
+"check_stats.php", {'CHECK_NODE': '/runtime/callmgr/voice_service/mobile/sms/send_state'}
+"sitesurvey.php", {'action': 'action'}
+"set_easysetup.php", {'EnableEasySetup': 'en_es'}
+"service.cgi", {'SERVICE': 'DEVICE.TIME', 'ACTION': 'RESTART'}
+"service.cgi", {'EVENT': 'SENDMAIL'}
+"check.php", {'act': 'checkdir', 'dirname': 'path'}
+"dlnastate.php", {'dummy': 'dummy'}
+"shareport.php", {'action': 'action', 'value': 'value'}
+"diagnostic.php", {'act': 'ping', 'dst': 'OBJ(dst).value'}
+"diagnostic.php", {'act': 'ping6', 'dst': 'OBJ(dst_ipv6).value'}
+"diagnostic.php", {'act': 'pingreport'}
+"ddns_act.php", {'act': 'getreport'}
+"dnsquery.php", {'act': 'action'}
+"wpsacts.php", {'action': 'action', 'uid': 'uid', 'pin': 'value'}
+"wpsstate.php", {'dummy': 'dummy'}
+"log_clear.php", {'act': 'clear', 'logtype': 'this.logType', 'SERVICES': 'RUNTIME.LOG'}
+"diagnostic.php", {'act': 'action', 'dst': 'dst'}
+keywords:
+['value', 'firstname', 'version', 'action', 'lang', 'CHECK_NODE', 'mydlink_cookie', 'ACTION', 'EVENT', 'passwd', 'EnableEasySetup', 'logtype', 'dst', 'SERVICES', 'dirname', 'dummy', 'act', 'outemail', 'uid', 'lastname', 'pin', 'SERVICE']
+keywords:
+[]
