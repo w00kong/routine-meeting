@@ -27,7 +27,7 @@ Please upload your **slides or a introduction** (Chinese or English) of your pre
 | 27 | 2022.5.21 |王毓贞  | DefRec: Establishing Physical Function Virtualization to Disrupt Reconnaissance of Power Grids’ Cyber-Physical Infrastructures|
 | 28 | 2022.5.28 |彭慜威<br>高仪  | Game of Hide-and-Seek: Exposing Hidden Interfaces in Embedded Web Applications of IoT Devices<br>NETPLIER： Probabilistic Network Protocol Reverse Engineering from Message Traces |芦笑瑜 刘厚志 <br>李泽村 王毓贞<br>张士超 马梓刚<br> 彭慜威 高仪
 | 30 | 2022.6.4 |芦笑瑜<br>李泽村  |  |
-| 31 | 2022.6.11 |马梓刚<br>张士超  |  |
+| 31 | 2022.6.11 |马梓刚<br>张士超  |  |Sharing More and Checking Less: Leveraging Common Input Keywords to Detect Bugs in Embedded Systems|张士超|
 | 33 | 2022.6.18 |刘厚志 <br>王毓贞 |  |
 | 35 | 2022.6.25 |高仪<br>彭慜威  |  |
 | 37 | 2022.7.2 | 杨亚辉<br>李泽村 |  |
