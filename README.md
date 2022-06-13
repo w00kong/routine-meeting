@@ -26,7 +26,7 @@ Please upload your **slides or a introduction** (Chinese or English) of your pre
 | 25 | 2022.5.14 |刘厚志<br>张士超| Fuzzware: Using Precise MMIO Modeling for Effective Firmware Fuzzing<br>xxx |刘厚志|
 | 27 | 2022.5.21 |王毓贞  | DefRec: Establishing Physical Function Virtualization to Disrupt Reconnaissance of Power Grids’ Cyber-Physical Infrastructures|
 | 28 | 2022.5.28 |彭慜威<br>高仪  | Game of Hide-and-Seek: Exposing Hidden Interfaces in Embedded Web Applications of IoT Devices<br>NETPLIER： Probabilistic Network Protocol Reverse Engineering from Message Traces |芦笑瑜 刘厚志 <br>李泽村 王毓贞<br>张士超 马梓刚<br> 彭慜威 高仪
-| 30 | 2022.6.4 |芦笑瑜<br>李泽村  |  |
+| 30 | 2022.6.4 |芦笑瑜<br>李泽村  | FIRMWIRE: Transparent Dynamic Analysis for Cellular Baseband Firmware |
 | 31 | 2022.6.11 |马梓刚<br>张士超  |Sharing More and Checking Less: Leveraging Common Input Keywords to Detect Bugs in Embedded Systems |
 | 33 | 2022.6.18 |刘厚志 <br>王毓贞 |  |
 | 35 | 2022.6.25 |高仪<br>彭慜威  |  |
