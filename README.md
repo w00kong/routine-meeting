@@ -29,7 +29,7 @@ Please upload your **slides or a introduction** (Chinese or English) of your pre
 | 30 | 2022.6.4 |芦笑瑜<br>李泽村  | FIRMWIRE: Transparent Dynamic Analysis for Cellular Baseband Firmware |高仪 
 | 31 | 2022.6.11 |马梓刚<br>张士超  |Sharing More and Checking Less: Leveraging Common Input Keywords to Detect Bugs in Embedded Systems<br> SHADOWPLCS: A Novel Scheme for Remote Detection of Industrial Process Control Attack|高仪<br> 刘厚志 王毓贞
 | 33 | 2022.6.18 |刘厚志 <br>王毓贞 | |
-| 35 | 2022.6.25 |高仪<br>彭慜威  |  Understanding and Detecting Remote Infection on Linux-based IoT Devices 彭慜威|
+| 35 | 2022.6.25 |高仪<br>彭慜威  |  Understanding and Detecting Remote Infection on Linux-based IoT Devices 彭慜威|Probabilistic model 高仪
 | 37 | 2022.7.2 | 杨亚辉<br>李泽村 |  |
 | 38 | 2022.7.9 |芦笑瑜<br> 马梓刚 |  |
 | 40 | 2022.7.16 |张士超<br> 刘厚志 |  |
