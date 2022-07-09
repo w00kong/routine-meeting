@@ -31,7 +31,7 @@ Please upload your **slides or a introduction** (Chinese or English) of your pre
 | 33 | 2022.6.18 |刘厚志 <br>王毓贞 |Opening report |
 | 35 | 2022.6.25 |高仪<br>彭慜威  |  Understanding and Detecting Remote Infection on Linux-based IoT Devices 彭慜威 Protocol Format Analysis Probabilistic Graphical Model Summary |
 | 37 | 2022.7.2 | 杨亚辉<br>李泽村 |  |
-| 38 | 2022.7.9 |芦笑瑜<br> 马梓刚 |  |
+| 38 | 2022.7.9 |芦笑瑜<br> 马梓刚 | SHADOWPLCS: A Novel Scheme for Remote Detection of Industrial Process Control Attack |
 | 40 | 2022.7.16 |张士超<br> 刘厚志 |  |
 
 
