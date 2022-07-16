@@ -31,18 +31,18 @@ Please upload your **slides or a introduction** (Chinese or English) of your pre
 | 33 | 2022.6.18 |刘厚志 <br>王毓贞 |Opening report |
 | 35 | 2022.6.25 |高仪<br>彭慜威  |  Understanding and Detecting Remote Infection on Linux-based IoT Devices 彭慜威 Protocol Format Analysis Probabilistic Graphical Model Summary |
 | 37 | 2022.7.2 | 杨亚辉<br>李泽村 |  |
-| 38 | 2022.7.9 |芦笑瑜<br> 马梓刚 | SHADOWPLCS: A Novel Scheme for Remote Detection of Industrial Process Control Attack |
-| 40 | 2022.7.16 |张士超<br> 刘厚志 |  |
-| 41 | 2022.7.23 |廖贤刚<br> 王毓贞 |  |
-| 42 | 2022.7.30 |高仪<br> 彭慜威 |  |
-| 43 | 2022.8.6 |杨亚辉<br> 李泽村 |  |
-| 44 | 2022.8.13 |芦笑瑜<br> 马梓刚 |  |
-| 45 | 2022.8.20 |张士超<br> 刘厚志 |  |
-| 46 | 2022.8.27 |廖贤刚<br> 王毓贞 |  |
-| 47 | 2022.9.3 |高仪<br> 彭慜威 |  |
-| 48 | 2022.9.10 |杨亚辉<br> 李泽村 |  |
-| 49 | 2022.9.17 |芦笑瑜<br> 马梓刚 |  |
-| 50 | 2022.9.24 |张士超<br> 刘厚志 |  |
+| 38 | 2022.7.9 | 马梓刚 | SHADOWPLCS: A Novel Scheme for Remote Detection of Industrial Process Control Attack |
+| 40 | 2022.7.16 |张士超<br> 高仪 |  |
+| 41 | 2022.7.23 |李泽村<br> 杨亚辉 |  |
+| 42 | 2022.7.30 |王毓贞<br> 刘厚志 |  |
+| 43 | 2022.8.6 | 廖贤刚<br> 芦笑瑜 |  |
+| 44 | 2022.8.13 |高仪<br> 马梓刚 |  |
+| 45 | 2022.8.20 |张士超<br> 李泽村 |  |
+| 46 | 2022.8.27 |杨亚辉<br> 王毓贞 |  |
+| 47 | 2022.9.3 |刘厚志<br> 廖贤刚 |  |
+| 48 | 2022.9.10 |芦笑瑜<br> 高仪 |  |
+| 49 | 2022.9.17 |马梓刚<br> 张士超 |  |
+| 50 | 2022.9.24 |李泽村<br> 杨亚辉 |  |
 
 
 
