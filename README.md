@@ -33,6 +33,21 @@ Please upload your **slides or a introduction** (Chinese or English) of your pre
 | 37 | 2022.7.2 | 杨亚辉<br>李泽村 |  |
 | 38 | 2022.7.9 |芦笑瑜<br> 马梓刚 | SHADOWPLCS: A Novel Scheme for Remote Detection of Industrial Process Control Attack |
 | 40 | 2022.7.16 |张士超<br> 刘厚志 |  |
+| 41 | 2022.7.23 |廖贤刚<br> 王毓贞 |  |
+| 42 | 2022.7.30 |高仪<br> 彭慜威 |  |
+| 43 | 2022.8.6 |杨亚辉<br> 李泽村 |  |
+| 44 | 2022.8.13 |芦笑瑜<br> 马梓刚 |  |
+| 45 | 2022.8.20 |张士超<br> 刘厚志 |  |
+| 46 | 2022.8.27 |廖贤刚<br> 王毓贞 |  |
+| 47 | 2022.9.3 |高仪<br> 彭慜威 |  |
+| 48 | 2022.9.10 |杨亚辉<br> 李泽村 |  |
+| 49 | 2022.9.17 |芦笑瑜<br> 马梓刚 |  |
+| 50 | 2022.9.24 |张士超<br> 刘厚志 |  |
+
+
+
+
+
 
 
 
