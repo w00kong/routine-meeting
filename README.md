@@ -33,7 +33,7 @@ Please upload your **slides or a introduction** (Chinese or English) of your pre
 | 37 | 2022.7.2 | 杨亚辉<br>李泽村 |  |
 | 38 | 2022.7.9 | 马梓刚 | SHADOWPLCS: A Novel Scheme for Remote Detection of Industrial Process Control Attack |
 | 40 | 2022.7.16 |张士超<br> 高仪 |Trampoline_Over_the_Air_Breaking_in_IoT_Devices_Through_MQTT_Brokers  |
-| 41 | 2022.7.23 |李泽村<br> 杨亚辉 |  |
+| 41 | 2022.7.23 |李泽村<br> 杨亚辉 | MPInspector：A Systematic and Automatic Approach for Evaluating the Security of IoT Messaging Protocols |
 | 42 | 2022.7.30 |王毓贞<br> 刘厚志 | An Improved Two-Stage Deep Reinforcement Learning Approach for Regulation Service Disaggregation in a Virtual Power Plant |
 | 43 | 2022.8.6 | 廖贤刚<br> 芦笑瑜 |  |
 | 44 | 2022.8.13 |高仪<br> 马梓刚 |  |
