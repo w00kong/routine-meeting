@@ -36,7 +36,7 @@ Please upload your **slides or a introduction** (Chinese or English) of your pre
 | 41 | 2022.7.23 |李泽村<br> 杨亚辉 |  |
 | 42 | 2022.7.30 |王毓贞<br> 刘厚志 | An Improved Two-Stage Deep Reinforcement Learning Approach for Regulation Service Disaggregation in a Virtual Power Plant |
 | 43 | 2022.8.6 | 廖贤刚<br> 芦笑瑜 | Fuzzware: Using Precise MMIO Modeling for Effective Firmware Fuzzing | 
-| 44 | 2022.8.13 |高仪<br> 马梓刚 | T-Reqs- HTTP Request Smuggling with Differential Fuzzing |
+| 44 | 2022.8.13 |高仪<br> 马梓刚 | T-Reqs- HTTP Request Smuggling with Differential Fuzzing <br> Probabilistic Attack Sequence Generation and Execution Based on MITRE ATT&CK for ICS Datasets |
 | 45 | 2022.8.20 |张士超<br> 李泽村 |  |
 | 46 | 2022.8.27 |杨亚辉<br> 王毓贞 |  |
 | 47 | 2022.9.3 |刘厚志<br> 廖贤刚 |  |
