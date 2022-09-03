@@ -25,7 +25,7 @@ Please upload your **slides or a introduction** (Chinese or English) of your pre
 | 21 | 2022.5.14 |刘厚志| Fuzzware: Using Precise MMIO Modeling for Effective Firmware Fuzzing|
 | 22 | 2022.5.21 |王毓贞  | DefRec: Establishing Physical Function Virtualization to Disrupt Reconnaissance of Power Grids’ Cyber-Physical Infrastructures|
 | 23 | 2022.5.28 |彭慜威<br>高仪  | Game of Hide-and-Seek: Exposing Hidden Interfaces in Embedded Web Applications of IoT Devices<br>NETPLIER： Probabilistic Network Protocol Reverse Engineering from Message Traces |
-| 24 | 2022.6.4 |芦笑瑜<br>李泽村  | FIRMWIRE: Transparent Dynamic Analysis for Cellular Baseband Firmware<br>xxx |芦笑瑜<br>李泽村（缺席） |
+| 24 | 2022.6.4 |芦笑瑜<br>李泽村（缺席）  | FIRMWIRE: Transparent Dynamic Analysis for Cellular Baseband Firmware<br>xxx |芦笑瑜<br>李泽村（缺席） |
 | 25 | 2022.6.11 |马梓刚<br>张士超  |Sharing More and Checking Less: Leveraging Common Input Keywords to Detect Bugs in Embedded Systems<br> SHADOWPLCS: A Novel Scheme for Remote Detection of Industrial Process Control Attack|
 | 26 | 2022.6.18 |刘厚志 <br>王毓贞 |Opening report |
 | 27 | 2022.6.25 |高仪<br>彭慜威  |  Understanding and Detecting Remote Infection on Linux-based IoT Devices <br> Protocol Format Analysis Probabilistic Graphical Model Summary |
