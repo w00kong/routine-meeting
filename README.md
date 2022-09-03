@@ -38,7 +38,7 @@ Please upload your **slides or a introduction** (Chinese or English) of your pre
 | 34 | 2022.8.13 |高仪<br> 马梓刚 | T-Reqs- HTTP Request Smuggling with Differential Fuzzing <br> Probabilistic Attack Sequence Generation and Execution Based on MITRE ATT&CK for ICS Datasets |
 | 35 | 2022.8.20 |张士超<br> 李泽村 | SelectiveTaint:efficient data flow tracking with static binary rewriting |
 | 36 | 2022.8.27 |杨亚辉<br> 王毓贞 | MaDIoT 2.0: Modern High-Wattage IoT Botnet Attacks and Defenses |
-| 37 | 2022.9.3 |刘厚志<br> 廖贤刚 |  |
+| 37 | 2022.9.3 |刘厚志<br> 廖贤刚 | RapidPatch: Firmware Hotpatching for Real-Time Embedded Devices |
 | 38 | 2022.9.10 |芦笑瑜<br> 高仪 |  |
 | 39 | 2022.9.17 |马梓刚<br> 张士超 |  |
 | 40 | 2022.9.24 |李泽村<br> 杨亚辉 |  |
