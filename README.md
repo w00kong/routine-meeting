@@ -25,20 +25,20 @@ Please upload your **slides or a introduction** (Chinese or English) of your pre
 | 21 | 2022.5.14 |刘厚志| Fuzzware: Using Precise MMIO Modeling for Effective Firmware Fuzzing|
 | 22 | 2022.5.21 |王毓贞  | DefRec: Establishing Physical Function Virtualization to Disrupt Reconnaissance of Power Grids’ Cyber-Physical Infrastructures|
 | 23 | 2022.5.28 |彭慜威<br>高仪  | Game of Hide-and-Seek: Exposing Hidden Interfaces in Embedded Web Applications of IoT Devices<br>NETPLIER： Probabilistic Network Protocol Reverse Engineering from Message Traces |
-| 24 | 2022.6.4 |芦笑瑜<br>李泽村（缺席）  | FIRMWIRE: Transparent Dynamic Analysis for Cellular Baseband Firmware<br>xxx |芦笑瑜<br>李泽村（缺席） |
+| 24 | 2022.6.4 |芦笑瑜<br>李泽村（**缺席**）  | FIRMWIRE: Transparent Dynamic Analysis for Cellular Baseband Firmware<br>xxx |芦笑瑜<br>李泽村（缺席） |
 | 25 | 2022.6.11 |马梓刚<br>张士超  |Sharing More and Checking Less: Leveraging Common Input Keywords to Detect Bugs in Embedded Systems<br> SHADOWPLCS: A Novel Scheme for Remote Detection of Industrial Process Control Attack|
 | 26 | 2022.6.18 |刘厚志 <br>王毓贞 |Opening report |
 | 27 | 2022.6.25 |高仪<br>彭慜威  |  Understanding and Detecting Remote Infection on Linux-based IoT Devices <br> Protocol Format Analysis Probabilistic Graphical Model Summary |
-| 28 | 2022.7.2 | 杨亚辉（缺席）<br>李泽村（缺席） |  |
-| 29 | 2022.7.9 | 马梓刚<br>芦笑瑜（缺席） | SHADOWPLCS: A Novel Scheme for Remote Detection of Industrial Process Control Attack<br>xxx |马梓刚<br>芦笑瑜（缺席）|
+| 28 | 2022.7.2 | 杨亚辉（**缺席**）<br>李泽村（**缺席**） |  |
+| 29 | 2022.7.9 | 马梓刚<br>芦笑瑜（**缺席**） | SHADOWPLCS: A Novel Scheme for Remote Detection of Industrial Process Control Attack<br>xxx |马梓刚<br>芦笑瑜（缺席）|
 | 30 | 2022.7.16 |张士超<br> 高仪 |Trampoline_Over_the_Air_Breaking_in_IoT_Devices_Through_MQTT_Brokers <br> KARONTE: Detecting Insecure Multi-binary Interactions in Embedded Firmware  |
-| 31 | 2022.7.23 |李泽村（缺席）<br> 杨亚辉（缺席） |  |
+| 31 | 2022.7.23 |李泽村（**缺席**）<br> 杨亚辉（**缺席**） |  |
 | 32 | 2022.7.30 |王毓贞<br> 刘厚志 | An Improved Two-Stage Deep Reinforcement Learning Approach for Regulation Service Disaggregation in a Virtual Power Plant <br> PartEmu: Enabling Dynamic Analysis of Real-World TrustZone Software Using Emulation |
-| 33 | 2022.8.6 | 廖贤刚（缺席）<br> 芦笑瑜 | xxx<br>Fuzzware: Using Precise MMIO Modeling for Effective Firmware Fuzzing |廖贤刚（缺席）<br>芦笑瑜| 
+| 33 | 2022.8.6 | 廖贤刚（**缺席**）<br> 芦笑瑜 | xxx<br>Fuzzware: Using Precise MMIO Modeling for Effective Firmware Fuzzing |廖贤刚（缺席）<br>芦笑瑜| 
 | 34 | 2022.8.13 |高仪<br> 马梓刚 | T-Reqs- HTTP Request Smuggling with Differential Fuzzing <br> Probabilistic Attack Sequence Generation and Execution Based on MITRE ATT&CK for ICS Datasets |
 | 35 | 2022.8.20 |张士超<br> 李泽村 | SelectiveTaint:efficient data flow tracking with static binary rewriting |
-| 36 | 2022.8.27 |杨亚辉（缺席）<br> 王毓贞 | xxx<br>MaDIoT 2.0: Modern High-Wattage IoT Botnet Attacks and Defenses |杨亚辉（缺席）<br>王毓贞|
-| 37 | 2022.9.3 |刘厚志<br> 廖贤刚（缺席） | RapidPatch: Firmware Hotpatching for Real-Time Embedded Devices<br>xxx |芦笑瑜<br>廖贤刚（缺席）|
+| 36 | 2022.8.27 |杨亚辉（**缺席**）<br> 王毓贞 | xxx<br>MaDIoT 2.0: Modern High-Wattage IoT Botnet Attacks and Defenses |杨亚辉（缺席）<br>王毓贞|
+| 37 | 2022.9.3 |刘厚志<br> 廖贤刚（**缺席**） | RapidPatch: Firmware Hotpatching for Real-Time Embedded Devices<br>xxx |芦笑瑜<br>廖贤刚（缺席）|
 | 38 | 2022.9.10 |芦笑瑜<br> 高仪 |  |
 | 39 | 2022.9.17 |马梓刚<br> 张士超 |  |
 | 40 | 2022.9.24 |李泽村<br> 杨亚辉 |  |
