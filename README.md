@@ -14,7 +14,7 @@ Please upload your **slides or a introduction** (Chinese or English) of your pre
 | 10 | 2022.3.12 |刘厚志<br>张士超  | μAFL: Non-intrusive Feedback-driven Fuzzing for Microcontroller Firmware<br>PASan: Detecting Peripheral Access Concurrency Bugs within Bare-Metal Embedded Applications |
 | 11 | 2022.3.19 |王毓贞  | FirmPot: A Framework for Intelligent-Interaction Honeypots Using Firmware of IoT Devices |
 | 12 | 2022.3.26 |葛学帅  | ARCUS: Symbolic Root Cause Analysis of Exploits in Production Systems |
-| 13 | 2022.4.2 |芦笑瑜<br>马梓刚  | Firm-AFL: High-Throughput Greybox Fuzzing of IoT Firmware via Augmented Process Emulation<br>xxx |芦笑瑜<br>马梓刚(因写项目缺席)
+| 13 | 2022.4.2 |芦笑瑜<br>马梓刚（缺席）  | Firm-AFL: High-Throughput Greybox Fuzzing of IoT Firmware via Augmented Process Emulation<br>xxx |芦笑瑜<br>马梓刚(因写项目缺席)
 | 14 | 2022.4.9 |张士超  | Cross-Architecture Bug Search in Binary Executables |
 | 15 | 2022.4.16 |刘厚志  | Firmware Re-hosting Through Static Binary-level Porting |
 | 16 | 2022.4.16 |王毓贞  | The Hunt for Major League IoT and ICS Threats A Deep Dive into IoT Threat Terrain |
