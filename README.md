@@ -22,13 +22,13 @@ Please upload your **slides or a introduction** (Chinese or English) of your pre
 | 18 | 2022.4.23 |高仪  | ICSREF: A Framework for Automated Reverse Engineering of Industrial Control Systems Binaries |
 | 19 | 2022.4.30 |葛学帅  |  |
 | 20 | 2022.5.7 |芦笑瑜<br>马梓刚| Toward the Analysis of Embedded Firmware through Automated Re-hosting<br>BYTEWEIGHT : learning to recognize fuctions in Binary Code |
-| 21 | 2022.5.14 |刘厚志<br>张士超| Fuzzware: Using Precise MMIO Modeling for Effective Firmware Fuzzing<br>xxx ||
+| 21 | 2022.5.14 |刘厚志<br>张士超| Fuzzware: Using Precise MMIO Modeling for Effective Firmware Fuzzing<br>xxx |刘厚志<br>张士超（缺席）|
 | 22 | 2022.5.21 |王毓贞  | DefRec: Establishing Physical Function Virtualization to Disrupt Reconnaissance of Power Grids’ Cyber-Physical Infrastructures|
 | 23 | 2022.5.28 |彭慜威<br>高仪  | Game of Hide-and-Seek: Exposing Hidden Interfaces in Embedded Web Applications of IoT Devices<br>NETPLIER： Probabilistic Network Protocol Reverse Engineering from Message Traces |
-| 24 | 2022.6.4 |芦笑瑜<br>李泽村  | FIRMWIRE: Transparent Dynamic Analysis for Cellular Baseband Firmware |
+| 24 | 2022.6.4 |芦笑瑜<br>李泽村  | FIRMWIRE: Transparent Dynamic Analysis for Cellular Baseband Firmware<br>xxx |芦笑瑜<br>李泽村（缺席） |
 | 25 | 2022.6.11 |马梓刚<br>张士超  |Sharing More and Checking Less: Leveraging Common Input Keywords to Detect Bugs in Embedded Systems<br> SHADOWPLCS: A Novel Scheme for Remote Detection of Industrial Process Control Attack|
 | 26 | 2022.6.18 |刘厚志 <br>王毓贞 |Opening report |
-| 27 | 2022.6.25 |高仪<br>彭慜威  |  Understanding and Detecting Remote Infection on Linux-based IoT Devices 彭慜威 Protocol Format Analysis Probabilistic Graphical Model Summary |
+| 27 | 2022.6.25 |高仪<br>彭慜威  |  Understanding and Detecting Remote Infection on Linux-based IoT Devices <br> Protocol Format Analysis Probabilistic Graphical Model Summary |
 | 28 | 2022.7.2 | 杨亚辉<br>李泽村 |  |
 | 29 | 2022.7.9 | 马梓刚 | SHADOWPLCS: A Novel Scheme for Remote Detection of Industrial Process Control Attack |
 | 30 | 2022.7.16 |张士超<br> 高仪 |Trampoline_Over_the_Air_Breaking_in_IoT_Devices_Through_MQTT_Brokers <br> KARONTE: Detecting Insecure Multi-binary Interactions in Embedded Firmware  |
