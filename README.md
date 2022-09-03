@@ -34,7 +34,7 @@ Please upload your **slides or a introduction** (Chinese or English) of your pre
 | 30 | 2022.7.16 |张士超<br> 高仪 |Trampoline_Over_the_Air_Breaking_in_IoT_Devices_Through_MQTT_Brokers <br> KARONTE: Detecting Insecure Multi-binary Interactions in Embedded Firmware  |
 | 31 | 2022.7.23 |李泽村<br> 杨亚辉 |  |
 | 32 | 2022.7.30 |王毓贞<br> 刘厚志 | An Improved Two-Stage Deep Reinforcement Learning Approach for Regulation Service Disaggregation in a Virtual Power Plant |
-| 33 | 2022.8.6 | 廖贤刚<br> 芦笑瑜 | Fuzzware: Using Precise MMIO Modeling for Effective Firmware Fuzzing | 
+| 33 | 2022.8.6 | 廖贤刚<br> 芦笑瑜 | xxx<br>Fuzzware: Using Precise MMIO Modeling for Effective Firmware Fuzzing |廖贤刚（缺席）<br>芦笑瑜| 
 | 34 | 2022.8.13 |高仪<br> 马梓刚 | T-Reqs- HTTP Request Smuggling with Differential Fuzzing <br> Probabilistic Attack Sequence Generation and Execution Based on MITRE ATT&CK for ICS Datasets |
 | 35 | 2022.8.20 |张士超<br> 李泽村 | SelectiveTaint:efficient data flow tracking with static binary rewriting |
 | 36 | 2022.8.27 |杨亚辉<br> 王毓贞 | xxx<br>MaDIoT 2.0: Modern High-Wattage IoT Botnet Attacks and Defenses |杨亚辉（缺席）<br>王毓贞|
