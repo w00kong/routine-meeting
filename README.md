@@ -30,7 +30,7 @@ Please upload your **slides or a introduction** (Chinese or English) of your pre
 | 26 | 2022.6.18 |刘厚志 <br>王毓贞 |Opening report |
 | 27 | 2022.6.25 |高仪<br>彭慜威  |  Understanding and Detecting Remote Infection on Linux-based IoT Devices <br> Protocol Format Analysis Probabilistic Graphical Model Summary |
 | 28 | 2022.7.2 | 杨亚辉<br>李泽村 |  |
-| 29 | 2022.7.9 | 马梓刚 | SHADOWPLCS: A Novel Scheme for Remote Detection of Industrial Process Control Attack |
+| 29 | 2022.7.9 | 马梓刚<br>芦笑瑜 | SHADOWPLCS: A Novel Scheme for Remote Detection of Industrial Process Control Attack<br>xxx |马梓刚<br>芦笑瑜（缺席）|
 | 30 | 2022.7.16 |张士超<br> 高仪 |Trampoline_Over_the_Air_Breaking_in_IoT_Devices_Through_MQTT_Brokers <br> KARONTE: Detecting Insecure Multi-binary Interactions in Embedded Firmware  |
 | 31 | 2022.7.23 |李泽村<br> 杨亚辉 |  |
 | 32 | 2022.7.30 |王毓贞<br> 刘厚志 | An Improved Two-Stage Deep Reinforcement Learning Approach for Regulation Service Disaggregation in a Virtual Power Plant |
