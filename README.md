@@ -13,21 +13,21 @@ Please upload your **slides or a introduction** (Chinese or English) of your pre
 | 9 | 2022.3.5 |马梓刚  | Too Good to Be Safe: Tricking Lane Detection in Autonomous Driving with Crafted Perturbations
 | 10 | 2022.3.5 |芦笑瑜  | USBFuzz: A Framework for Fuzzing USB Drivers by Device Emulation |
 | 11 | 2022.3.12 |刘厚志<br>张士超  | μAFL: Non-intrusive Feedback-driven Fuzzing for Microcontroller Firmware<br>PASan: Detecting Peripheral Access Concurrency Bugs within Bare-Metal Embedded Applications | 刘厚志
-| 13 | 2022.3.19 |王毓贞  | FirmPot: A Framework for Intelligent-Interaction Honeypots Using Firmware of IoT Devices |芦笑瑜<br>刘厚志
-| 14 | 2022.3.26 |葛学帅  | ARCUS: Symbolic Root Cause Analysis of Exploits in Production Systems |高仪
+| 13 | 2022.3.19 |王毓贞  | FirmPot: A Framework for Intelligent-Interaction Honeypots Using Firmware of IoT Devices |
+| 14 | 2022.3.26 |葛学帅  | ARCUS: Symbolic Root Cause Analysis of Exploits in Production Systems |
 | 15 | 2022.4.2 |芦笑瑜  | Firm-AFL: High-Throughput Greybox Fuzzing of IoT Firmware via Augmented Process Emulation |
-| 16 | 2022.4.9 |张士超  | Cross-Architecture Bug Search in Binary Executables |刘厚志<br>王毓贞
+| 16 | 2022.4.9 |张士超  | Cross-Architecture Bug Search in Binary Executables |
 | 17 | 2022.4.16 |刘厚志  | Firmware Re-hosting Through Static Binary-level Porting |
 | 18 | 2022.4.16 |王毓贞  | The Hunt for Major League IoT and ICS Threats A Deep Dive into IoT Threat Terrain |
 | 19 | 2022.4.23 |彭慜威  | FIRMAE Towards Large-Scale Emulation of IoT Firmware for DynamicAnalysis |
 | 20 | 2022.4.23 |高仪  | ICSREF: A Framework for Automated Reverse Engineering of Industrial Control Systems Binaries |
 | 21 | 2022.4.30 |葛学帅  |  |
 | 22 | 2022.5.7 |芦笑瑜<br>马梓刚| Toward the Analysis of Embedded Firmware through Automated Re-hosting<br>BYTEWEIGHT : learning to recognize fuctions in Binary Code |
-| 25 | 2022.5.14 |刘厚志<br>张士超| Fuzzware: Using Precise MMIO Modeling for Effective Firmware Fuzzing<br>xxx |刘厚志|
+| 25 | 2022.5.14 |刘厚志<br>张士超| Fuzzware: Using Precise MMIO Modeling for Effective Firmware Fuzzing<br>xxx ||
 | 27 | 2022.5.21 |王毓贞  | DefRec: Establishing Physical Function Virtualization to Disrupt Reconnaissance of Power Grids’ Cyber-Physical Infrastructures|
-| 28 | 2022.5.28 |彭慜威<br>高仪  | Game of Hide-and-Seek: Exposing Hidden Interfaces in Embedded Web Applications of IoT Devices<br>NETPLIER： Probabilistic Network Protocol Reverse Engineering from Message Traces |芦笑瑜 刘厚志 <br>李泽村 王毓贞<br>张士超 马梓刚<br> 彭慜威 高仪
-| 30 | 2022.6.4 |芦笑瑜<br>李泽村  | FIRMWIRE: Transparent Dynamic Analysis for Cellular Baseband Firmware |高仪 
-| 31 | 2022.6.11 |马梓刚<br>张士超  |Sharing More and Checking Less: Leveraging Common Input Keywords to Detect Bugs in Embedded Systems<br> SHADOWPLCS: A Novel Scheme for Remote Detection of Industrial Process Control Attack|高仪<br> 刘厚志 王毓贞
+| 28 | 2022.5.28 |彭慜威<br>高仪  | Game of Hide-and-Seek: Exposing Hidden Interfaces in Embedded Web Applications of IoT Devices<br>NETPLIER： Probabilistic Network Protocol Reverse Engineering from Message Traces |
+| 30 | 2022.6.4 |芦笑瑜<br>李泽村  | FIRMWIRE: Transparent Dynamic Analysis for Cellular Baseband Firmware |
+| 31 | 2022.6.11 |马梓刚<br>张士超  |Sharing More and Checking Less: Leveraging Common Input Keywords to Detect Bugs in Embedded Systems<br> SHADOWPLCS: A Novel Scheme for Remote Detection of Industrial Process Control Attack|
 | 33 | 2022.6.18 |刘厚志 <br>王毓贞 |Opening report |
 | 35 | 2022.6.25 |高仪<br>彭慜威  |  Understanding and Detecting Remote Infection on Linux-based IoT Devices 彭慜威 Protocol Format Analysis Probabilistic Graphical Model Summary |
 | 37 | 2022.7.2 | 杨亚辉<br>李泽村 |  |
