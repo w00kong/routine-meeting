@@ -4,6 +4,7 @@ Please upload your **slides or a introduction** (Chinese or English) of your pre
 **Location**：Lab-1 405
 
 **Time**: Saturday 8:00
+
 **Tips** 每周分享
 1. 推荐会议：IEEES&P, ACM CCS, USENIX Security, NDSS, CSF, ESORICS, RAID, ACSAC, PETS, ASIA CCS, Euro S&P，DAC，ICSE，FSE，ASE，ISSTA，WWW，Blackhat（工业界）
 2. 推荐期刊：IEEE Transactions on Information Forensics and Security (TIFS), IEEE Transactions on Dependable and Secure Computing(TDSC)
