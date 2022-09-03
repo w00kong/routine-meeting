@@ -8,6 +8,7 @@ Please upload your **slides or a introduction** (Chinese or English) of your pre
 1. 推荐会议：IEEES&P, ACM CCS, USENIX Security, NDSS, CSF, ESORICS, RAID, ACSAC, PETS, ASIA CCS, Euro S&P，DAC，ICSE，FSE，ASE，ISSTA，WWW，Blackhat（工业界）
 2. 推荐期刊：IEEE Transactions on Information Forensics and Security (TIFS), IEEE Transactions on Dependable and Secure Computing(TDSC)
 3. 其它 CCF A推荐会议、期刊
+
 |  |Date  | Speaker | Title |Reporter|
 | --- | --- | --- | --- |---|
 | 1 | 2022.1.28 |芦笑瑜<br>廖贤刚  | DICE: Automatic Emulation of DMA Input Channels for Dynamic Firmware Analysis<br>HALucinator: Firmware Re-hosting Through Abstraction Layer Emulation  |
