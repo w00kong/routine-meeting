@@ -22,7 +22,7 @@ Please upload your **slides or a introduction** (Chinese or English) of your pre
 | 18 | 2022.4.23 |高仪  | ICSREF: A Framework for Automated Reverse Engineering of Industrial Control Systems Binaries |
 | 19 | 2022.4.30 |葛学帅  |  |
 | 20 | 2022.5.7 |芦笑瑜<br>马梓刚| Toward the Analysis of Embedded Firmware through Automated Re-hosting<br>BYTEWEIGHT : learning to recognize fuctions in Binary Code |
-| 21 | 2022.5.14 |刘厚志<br>张士超| Fuzzware: Using Precise MMIO Modeling for Effective Firmware Fuzzing<br>xxx |刘厚志<br>张士超（缺席）|
+| 21 | 2022.5.14 |刘厚志| Fuzzware: Using Precise MMIO Modeling for Effective Firmware Fuzzing|
 | 22 | 2022.5.21 |王毓贞  | DefRec: Establishing Physical Function Virtualization to Disrupt Reconnaissance of Power Grids’ Cyber-Physical Infrastructures|
 | 23 | 2022.5.28 |彭慜威<br>高仪  | Game of Hide-and-Seek: Exposing Hidden Interfaces in Embedded Web Applications of IoT Devices<br>NETPLIER： Probabilistic Network Protocol Reverse Engineering from Message Traces |
 | 24 | 2022.6.4 |芦笑瑜<br>李泽村  | FIRMWIRE: Transparent Dynamic Analysis for Cellular Baseband Firmware<br>xxx |芦笑瑜<br>李泽村（缺席） |
