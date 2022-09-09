@@ -38,7 +38,7 @@ Please upload your **slides or a introduction** (Chinese or English) of your pre
 | 28 | 2022.7.2 | 杨亚辉（**缺席**）<br>李泽村（**缺席**） |  |
 | 29 | 2022.7.9 | 马梓刚<br>芦笑瑜（**缺席**） | SHADOWPLCS: A Novel Scheme for Remote Detection of Industrial Process Control Attack<br>xxx ||
 | 30 | 2022.7.16 |张士超<br> 高仪 |Trampoline_Over_the_Air_Breaking_in_IoT_Devices_Through_MQTT_Brokers <br> KARONTE: Detecting Insecure Multi-binary Interactions in Embedded Firmware  |
-| 31 | 2022.7.23 |李泽村（**缺席**）<br> 杨亚辉（**缺席**） |  |
+| 31 | 2022.7.23 |李泽村（**缺席**）<br> 杨亚辉 | MPInspector: A Systematic and Automatic Approach for Evaluating the Security of IoT Messaging Protocols |
 | 32 | 2022.7.30 |王毓贞<br> 刘厚志 | An Improved Two-Stage Deep Reinforcement Learning Approach for Regulation Service Disaggregation in a Virtual Power Plant <br> PartEmu: Enabling Dynamic Analysis of Real-World TrustZone Software Using Emulation |
 | 33 | 2022.8.6 | 廖贤刚（**缺席**）<br> 芦笑瑜 | xxx<br>Fuzzware: Using Precise MMIO Modeling for Effective Firmware Fuzzing || 
 | 34 | 2022.8.13 |高仪<br> 马梓刚 | T-Reqs- HTTP Request Smuggling with Differential Fuzzing <br> Probabilistic Attack Sequence Generation and Execution Based on MITRE ATT&CK for ICS Datasets |
