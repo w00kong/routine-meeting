@@ -46,7 +46,7 @@ Please upload your **slides or a introduction** (Chinese or English) of your pre
 | 36 | 2022.8.27 |杨亚辉（**缺席**）<br> 王毓贞 | xxx<br>MaDIoT 2.0: Modern High-Wattage IoT Botnet Attacks and Defenses ||
 | 37 | 2022.9.3 |刘厚志<br> 廖贤刚（**缺席**） | RapidPatch: Firmware Hotpatching for Real-Time Embedded Devices<br>xxx ||
 | 38 | 2022.9.10 |芦笑瑜<br> 高仪 |  |
-| 39 | 2022.9.17 |马梓刚<br> 张士超 | <br>PISE: Protocol Inference using Symbolic Execution and Automata Learning <br> DTaint: Detecting the Taint-Style Vulnerability in Embedded Device Firmware |
+| 39 | 2022.9.17 |马梓刚<br> 张士超 | PISE: Protocol Inference using Symbolic Execution and Automata Learning <br> DTaint: Detecting the Taint-Style Vulnerability in Embedded Device Firmware |
 | 40 | 2022.9.24 |李泽村<br> 杨亚辉 |  |
 
 
