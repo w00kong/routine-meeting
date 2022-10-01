@@ -48,7 +48,7 @@ Please upload your **slides or a introduction** (Chinese or English) of your pre
 | 38 | 2022.9.10 |芦笑瑜<br> 高仪 |  |
 | 39 | 2022.9.17 |马梓刚<br> 张士超 | PISE: Protocol Inference using Symbolic Execution and Automata Learning <br> DTaint: Detecting the Taint-Style Vulnerability in Embedded Device Firmware |
 | 40 | 2022.9.24 |李泽村<br> 杨亚辉 |  |
-| 41 | 2022.10.1 |王毓贞<br> 刘厚志 |  |
+| 41 | 2022.10.1 |王毓贞<br> 刘厚志 | A Reinforcement Learning Approach for Defending Against Multiscenario Load Redistribution Attacks |
 | 42 | 2022.10.8 |芦笑瑜<br> 高仪 |  |
 | 43 | 2022.10.15 |马梓刚<br> 张士超 |  |
 | 44 | 2022.10.22 |李泽村<br> 杨亚辉 |  |
