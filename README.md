@@ -51,7 +51,7 @@ Please upload your **slides or a introduction** (Chinese or English) of your pre
 | 41 | 2022.10.1 |王毓贞<br> 刘厚志 | A Reinforcement Learning Approach for Defending Against Multiscenario Load Redistribution Attacks |
 | 42 | 2022.10.8 |芦笑瑜<br> 高仪 |  |
 | 43 | 2022.10.15 |马梓刚<br> 张士超 | <br>A Large-Scale Empirical Analysis of the Vulnerabilities Introduced by Third-Party Components in IoT Firmware |
-| 44 | 2022.10.22 |李泽村<br> 杨亚辉 |  |
+| 44 | 2022.10.22 |李泽村<br> 杨亚辉 | <br>ICS Protocol Fuzzing: Coverage Guided Packet Crack and Generation |
 | 45 | 2022.10.29 |王毓贞<br> 刘厚志 |  |
 | 46 | 2022.11.5 |卫子涵<br> 宋云凯 |  |
 | 47 | 2022.11.12 |芦笑瑜<br> 宋思静 |  |
