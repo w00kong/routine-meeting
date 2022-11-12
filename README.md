@@ -45,11 +45,11 @@ Please upload your **slides or a introduction** (Chinese or English) of your pre
 | 35 | 2022.8.20 |张士超<br> 李泽村 | SelectiveTaint:efficient data flow tracking with static binary rewriting |
 | 36 | 2022.8.27 |杨亚辉（**缺席**）<br> 王毓贞 | xxx<br>MaDIoT 2.0: Modern High-Wattage IoT Botnet Attacks and Defenses ||
 | 37 | 2022.9.3 |刘厚志<br> 廖贤刚（**缺席**） | RapidPatch: Firmware Hotpatching for Real-Time Embedded Devices<br>xxx ||
-| 38 | 2022.9.10 |芦笑瑜<br> 高仪 |  |
+| 38 | 2022.9.10 |芦笑瑜<br> 高仪 | T-Reqs：HTTP Request Smuggling with Differential Fuzzing |
 | 39 | 2022.9.17 |马梓刚<br> 张士超 | PISE: Protocol Inference using Symbolic Execution and Automata Learning <br> DTaint: Detecting the Taint-Style Vulnerability in Embedded Device Firmware |
 | 40 | 2022.9.24 |李泽村<br> 杨亚辉 | xxx<br>Charon：Vulnerability Detection of ICS Protocols Via Cross-State Fuzzing |
 | 41 | 2022.10.1 |王毓贞<br> 刘厚志 | A Reinforcement Learning Approach for Defending Against Multiscenario Load Redistribution Attacks |
-| 42 | 2022.10.8 |芦笑瑜<br> 高仪 |  |
+| 42 | 2022.10.8 |芦笑瑜<br> 高仪（**缺席**） |  |
 | 43 | 2022.10.15 |马梓刚<br> 张士超 | Stealthy Rootkits in Smart Grid Controllers<br>A Large-Scale Empirical Analysis of the Vulnerabilities Introduced by Third-Party Components in IoT Firmware |
 | 44 | 2022.10.22 |李泽村<br> 杨亚辉 | <br>ICS Protocol Fuzzing: Coverage Guided Packet Crack and Generation |
 | 45 | 2022.10.29 |王毓贞<br> 刘厚志 |  |
