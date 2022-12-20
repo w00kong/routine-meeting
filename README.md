@@ -53,11 +53,11 @@ Please upload your **slides or a introduction** (Chinese or English) of your pre
 | 43 | 2022.10.15 |马梓刚<br> 张士超 | Stealthy Rootkits in Smart Grid Controllers<br>A Large-Scale Empirical Analysis of the Vulnerabilities Introduced by Third-Party Components in IoT Firmware |
 | 44 | 2022.10.22 |李泽村<br> 杨亚辉 | <br>ICS Protocol Fuzzing: Coverage Guided Packet Crack and Generation |
 | 45 | 2022.10.29 |王毓贞<br> 刘厚志 |  |
-| 46 | 2022.11.5 |卫子涵<br> 宋云凯 |  |
-| 47 | 2022.11.12 |芦笑瑜<br> 宋思静 |  |
-| 48 | 2022.11.19 |高仪<br> 马梓刚 |  |
-| 49 | 2022.11.26 |张士超<br> 李泽村 |  |
-| 50 | 2022.12.3 |杨亚辉<br> 王毓贞 |  |
-| 51 | 2022.12.10 |刘厚志<br> 卫子涵 |  |
-| 52 | 2022.12.17 |宋云凯<br> 芦笑瑜 |  |
-| 53 | 2022.12.24 |宋思静<br> 李泽村 |  |
+| 46 | 2022.12.24 |卫子涵<br> 宋云凯 |  |
+| 47 | 2022.12.31 |芦笑瑜<br> 宋思静 |  |
+| 48 | 2023.01.07 |高仪<br> 马梓刚 |  |
+| 49 | 2023.01.14 |张士超<br> 李泽村 |  |
+| 50 | 2023.01.21 |杨亚辉<br> 王毓贞 |  |
+| 51 | 2023.01.28 |刘厚志<br> 卫子涵 |  |
+| 52 | 2023.02.04 |宋云凯<br> 芦笑瑜 |  |
+| 53 | 2023.02.11 |宋思静<br> 李泽村 |  |
