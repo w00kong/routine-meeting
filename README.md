@@ -56,7 +56,7 @@ Please upload your **slides or a introduction** (Chinese or English) of your pre
 | 46 | 2022.12.31 |卫子涵<br> 宋云凯 |  |
 | 47 | 2023.01.07 |芦笑瑜<br> 宋思静 |  |
 | 48 | 2023.01.14 |高仪<br> 马梓刚 |  |
-| 49 | 2023.01.21 |张士超<br> 李泽村 |  |
+| 49 | 2023.01.21 |张士超<br> 李泽村 |SFuzz: Slice-based Fuzzing for Real-Time Operating Systems  |
 | 50 | 2023.01.28 |杨亚辉<br> 王毓贞 |  |
 | 51 | 2023.02.04 |刘厚志<br> 卫子涵 |  |
 | 52 | 2023.02.04 |宋云凯<br> 芦笑瑜 |  |
