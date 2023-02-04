@@ -12,7 +12,7 @@ Please upload your **slides or a introduction** (Chinese or English) of your pre
 
 |  |Date  | Speaker | Title |Reporter|
 | --- | --- | --- | --- |---|
-| 1 | 2023.01.21 |张士超<br> 李泽村 |SFuzz: Slice-based Fuzzing for Real-Time Operating Systems  |
+| 1 | 2023.01.21 |张士超<br> 李泽村 |SFuzz: Slice-based Fuzzing for Real-Time Operating Systems  |张士超
 | 2 | 2023.01.28 |杨亚辉<br> 王毓贞 |  |
 | 3 | 2023.02.04 |刘厚志<br> 卫子涵 |  |
 | 4 | 2023.02.04 |宋云凯<br> 芦笑瑜 |  |
