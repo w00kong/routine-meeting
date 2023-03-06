@@ -15,7 +15,7 @@ Please upload your **slides or a introduction** (Chinese or English) of your pre
 | 1 | 2023.01.21 |张士超<br> 李泽村 |SFuzz: Slice-based Fuzzing for Real-Time Operating Systems  |张士超
 | 2 | 2023.02.11 |杨亚辉<br> 王毓贞 |BLEEM: Packet Sequence Oriented Fuzzing for Protocol Implementations |杨亚辉
 | 3 | 2023.02.18 |刘厚志<br> 卫子涵 | x86逆向（入门） |卫子涵
-| 4 | 2023.02.25 |宋云凯<br> 芦笑瑜 | PatchVerif: Discovering Faulty Patches in Robotic Vehicles <br> EMS:History-Driven Mutation for coverage-based fuzzing!|宋云凯 <br> 芦笑瑜
+| 4 | 2023.02.25 |宋云凯<br> 芦笑瑜 | PatchVerif: Discovering Faulty Patches in Robotic Vehicles <br> EMS:History-Driven Mutation for coverage-based fuzzing|宋云凯 <br> 芦笑瑜
 | 5 | 2023.03.04 |宋思静<br> 李泽村 | EEFED: Personalized Federated Learning of Execution & Evaluation Dual Network for CPS Intrusion Detection |宋思静
 | 6 | 2023.03.11 |廖贤刚<br> 杨亚辉 |  |
 | 7 | 2023.03.18 |高仪<br> 马梓刚 |  |
