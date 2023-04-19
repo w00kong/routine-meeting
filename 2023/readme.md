@@ -18,7 +18,7 @@ Please upload your **slides or a introduction** (Chinese or English) of your pre
 | 4 | 2023.02.25 |宋云凯<br> 芦笑瑜 | PatchVerif: Discovering Faulty Patches in Robotic Vehicles <br> EMS:History-Driven Mutation for coverage-based fuzzing|宋云凯 <br> 芦笑瑜
 | 5 | 2023.03.04 |宋思静<br> 李泽村 | EEFED: Personalized Federated Learning of Execution & Evaluation Dual Network for CPS Intrusion Detection |宋思静
 | 6 | 2023.03.25 |廖贤刚<br> 杨亚辉 |  |
-| 7 | 2023.04.01 |高仪<br> 马梓刚 |  |
+| 7 | 2023.04.01 |高仪<br> 马梓刚 |  <br>ARTINALI: Dynamic Invariant Detection for Cyber-Physical System Security|高仪<br>马梓刚
 | 8 | 2023.04.08 |宋思静<br> 芦笑瑜 |  |
 | 9 | 2023.04.15 |廖贤刚<br> 杨亚辉   |  |
 | 10 | 2023.04.22 |张士超<br> 彭慜威 |  |
