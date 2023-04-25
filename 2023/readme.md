@@ -21,7 +21,7 @@ Please upload your **slides or a introduction** (Chinese or English) of your pre
 | 7 | 2023.04.01 |高仪<br> 马梓刚 |  <br>ARTINALI: Dynamic Invariant Detection for Cyber-Physical System Security|高仪<br>马梓刚
 | 8 | 2023.04.08 |宋思静<br> 芦笑瑜 |  |
 | 9 | 2023.04.15 |廖贤刚<br> 杨亚辉   |  |
-| 10 | 2023.04.22 |张士超<br> 彭慜威 |  |
+| 10 | 2023.04.22 |张士超<br> 彭慜威 |SyML: Guiding Symbolic Execution Toward Vulnerable States Through Pattern Learning|张士超
 | 11 | 2023.04.29 |卫子涵<br> 宋云凯  |  |
 | 12 | 2023.05.06 |芦笑瑜<br> 宋思静  |  |
 | 13 | 2023.05.13 |杨亚辉<br>  高仪 |  |
