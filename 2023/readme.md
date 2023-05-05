@@ -18,7 +18,7 @@ Please upload your **slides or a introduction** (Chinese or English) of your pre
 | 4 | 2023.02.25 |宋云凯<br> 芦笑瑜 | PatchVerif: Discovering Faulty Patches in Robotic Vehicles <br> EMS:History-Driven Mutation for coverage-based fuzzing|宋云凯 <br> 芦笑瑜
 | 5 | 2023.03.04 |宋思静<br> 李泽村 | EEFED: Personalized Federated Learning of Execution & Evaluation Dual Network for CPS Intrusion Detection |宋思静
 | 6 | 2023.03.25 |廖贤刚<br> 杨亚辉 |PAVFuzz: State-Sensitive Fuzz Testing of Protocols in Autonomous Vehicles  |杨亚辉
-| 7 | 2023.04.01 |高仪<br> 马梓刚 |  <br>ARTINALI: Dynamic Invariant Detection for Cyber-Physical System Security|高仪<br>马梓刚
+| 7 | 2023.04.01 |高仪<br> 马梓刚 |  Polar: Function Code Aware Fuzz Testing of ICS Protocol<br>ARTINALI: Dynamic Invariant Detection for Cyber-Physical System Security|高仪<br>马梓刚
 | 8 | 2023.04.08 |宋思静<br> 芦笑瑜 | Power System Reliability Evaluation With SCADA Cybersecurity Considerations |宋思静
 | 9 | 2023.04.15 |廖贤刚<br> 杨亚辉   | BinaryInferno:A Semantic-Driven Approach to Field Inference for Binary Message Formats |杨亚辉
 | 10 | 2023.04.22 |张士超<br> 彭慜威 |SyML: Guiding Symbolic Execution Toward Vulnerable States Through Pattern Learning<br> PGFUZZ  Policy-Guided Fuzzing for Robotic Vehicles |张士超<br>廖贤刚
