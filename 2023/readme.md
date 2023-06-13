@@ -26,9 +26,8 @@ Please upload your **slides or a introduction** (Chinese or English) of your pre
 | 12 | 2023.05.19 |芦笑瑜<br> 宋思静  |StateFuzz: System Call-Based State-Aware Linux Driver Fuzzing 2022 USENIX <br>Attack Graph Model for Cyber-Physical Power Systems using Hybrid Deep Learning  |芦笑瑜<br> 宋思静
 | 13 | 2023.05.26 |杨亚辉<br>  高仪 | TCP-Fuzz: Detecting Memory and Semantic Bugs in TCP Stacks with Fuzzing(2021 USENIX ATC)<br> SNPSFuzzer: A Fast Greybox Fuzzer for StatefulNetwork Protocols Using Snapshots(TIFS 2022)|杨亚辉<br>  高仪
 | 14 | 2023.06.02 |廖贤刚<br> 马梓刚  | 工业控制系统功能安全和信息安全一体化风险评估方法 |马梓刚
-| 15 | 2023.06.16 |芦笑瑜<br> 王红敏 |  |
+| 15 | 2023.06.16 |芦笑瑜<br>  廖贤刚 |  |
 | 16 | 2023.06.23 |卫子涵<br>  宋思静|  |
-| 17 | 2023.06.16 |杨亚辉<br> 宋云凯 |  |
-| 18 | 2023.06.30 |彭慜威<br>  廖贤刚|  |
-| 19 | 2023.07.07 |芦笑瑜<br>  张士超 |  |
-| 20 | 2023.07.14 |杨亚辉<br> 宋思静 |  |
+| 17 | 2023.06.30 |杨亚辉<br> 宋云凯 |  |
+| 18 | 2023.07.07|彭慜威<br>王红敏 |  |
+| 19 | 2023.07.14 |芦笑瑜<br>  张士超 |  |
